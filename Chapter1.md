@@ -20,8 +20,8 @@ This might sound simple, but these four things are common to all computers. And 
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
-   https://www.khanacademy.org/computing/computer-science/how-computers-work2
 </p>
+
 <p align="center">
    https://www.khanacademy.org/computing/computer-science/how-computers-work2
 </p>
@@ -33,6 +33,7 @@ the size of a room might take hours just to do a basic math problem.
 <p align="center">
    Figure 2: Timeline of Computers
 </p>
+
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/t.png" alt="common"/>
 </p>
@@ -40,9 +41,13 @@ the size of a room might take hours just to do a basic math problem.
 <p align="center">
    Figure 3: ENIAC
 </p>
+
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Eniac.jpg" alt="common"/>
-  https://en.wikipedia.org/wiki/ENIAC
+</p>
+
+<p align="center">
+    https://en.wikipedia.org/wiki/ENIAC
 </p>
 
 ENIAC (Electronic Numerical Integrator and Computer) was amongst the earliest electronic general-purpose computers made. 
