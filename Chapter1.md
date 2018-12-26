@@ -72,7 +72,7 @@ output.
 -----------------
 
 * Primary Memory
-**  RAM (Main Memory)
+..*  RAM (Main Memory)
    ROM
 
 * Secondary Memory
