@@ -10,11 +10,7 @@ You may have heard that computers work on ones and zeros. But almost nobody toda
   <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/binary.jpg" alt="Binary"/>
 </p>
 
-Inside a computer are electric wires and circuits and carry all the information in a computer. How do you store or represent
-information using electricity? Well, if you have a single wire with electricity flowing through it. The signal can either be
-on or off. That’s not a lot of choices. but it’s a really important start. With one wire, you can represent a ‘yes’ or a ‘no’.
-true or false, a one or a zero. or anything else with only two options. This on/off state of a single wire is called a bit.
-and it’s the smallest piece of information the computer can store.
+Inside a computer are electric wires and circuits and carry all the information in a computer. 
 
 <p align="center">
    Figure 2: Wire & Circuits
@@ -24,6 +20,11 @@ and it’s the smallest piece of information the computer can store.
   <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
 </p>
 
+How do you store or represent
+information using electricity? Well, if you have a single wire with electricity flowing through it. The signal can either be
+on or off. That’s not a lot of choices. but it’s a really important start. With one wire, you can represent a ‘yes’ or a ‘no’.
+true or false, a one or a zero. or anything else with only two options. This on/off state of a single wire is called a bit.
+and it’s the smallest piece of information the computer can store.
 
 If you use more wires, you get more bits. More ones and zeros with more bits.you can represent more complex information. But
 to understand that, we need to learn about something called about the binary number system.
