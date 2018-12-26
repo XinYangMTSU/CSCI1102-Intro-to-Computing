@@ -162,7 +162,9 @@ the machine cycle.
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.gif" alt="common"/>
+  https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm
 </p>
+
 
 When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number is
 sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter B
