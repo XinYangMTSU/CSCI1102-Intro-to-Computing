@@ -38,7 +38,7 @@ the size of a room might take hours just to do a basic math problem.
    Figure 3: ENIAC
 </p>
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/t.png" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Eniac.jpg" alt="common"/>
 </p>
 
 ENIAC (Electronic Numerical Integrator and Computer) was amongst the earliest electronic general-purpose computers made. 
