@@ -15,6 +15,6 @@ In this chapter, you’ll learn how computers work:
 It would need to take input, store information, process it, and then output the results. 
 This might sound simple, but these four things are common to all computers. And that’s what makes a computer a computer.
 
-![alt text](https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png "Logo Title Text 1")
+![Four things are common to all computers](https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png "Four things are common to all computers")
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
