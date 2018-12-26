@@ -15,8 +15,10 @@ In this chapter, you’ll learn how computers work:
 It would need to take input, store information, process it, and then output the results. 
 This might sound simple, but these four things are common to all computers. And that’s what makes a computer a computer.
 
+
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common" title = "four things are common to all computers"/>
+  Figure 1:four things are common to all computers
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
 </p>
 
 
