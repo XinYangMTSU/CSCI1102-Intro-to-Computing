@@ -63,4 +63,28 @@ a touchscreen can actually sense your finger and it takes that as input on what 
 * Web Cam
 * Touchscreen
 
+All these different inputs give the computer information, which is then stored in memory. A computer’s processor takes
+information for memory it manipulates it or changes it using the algorithm, which is just a series of commands, and then it
+sends the process information back to be stored in memory again. This continues until the processed information is ready to be
+output.
+
+2.Storage/Memory:
+-----------------
+*Primary Memory
+   RAM (Main Memory)
+   ROM
+*Secondary Memory
+   Hard Disk
+   Floppy Drive
+   CD
+
+
+
+
+* Keyboard
+* Mouse
+* Scanner
+* Web Cam
+* Touchscreen
+
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
