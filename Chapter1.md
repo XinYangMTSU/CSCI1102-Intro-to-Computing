@@ -16,7 +16,7 @@ It would need to take input, store information, process it, and then output the 
 This might sound simple, but these four things are common to all computers. And that’s what makes a computer a computer.
 
 <p align="center">
-  Figure 1:four things are common to all computers
+  ### Figure 1: Four things are common to all computers
 </p>
 
 <p align="center">
