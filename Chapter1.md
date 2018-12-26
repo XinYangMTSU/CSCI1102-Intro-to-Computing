@@ -19,7 +19,7 @@ This might sound simple, but these four things are common to all computers. And 
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/f2.png" alt="common"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ the size of a room might take hours just to do a basic math problem.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/t.png" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/t.png" alt="common"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ the size of a room might take hours just to do a basic math problem.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Eniac.jpg" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/Eniac.jpg" alt="common"/>
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ the devices within the machine.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.jpg" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/cpu.jpg" alt="common"/>
   https://turbofuture.com/computers/What-are-the-basic-functions-of-a-CPU
 </p>
 
@@ -172,7 +172,7 @@ the machine cycle.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.gif" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/cpu.gif" alt="common"/>
   https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm
 </p>
 
