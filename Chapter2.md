@@ -21,7 +21,7 @@ and it’s the smallest piece of information the computer can store.
 </p>
 
 <p align="center">
-  <img height="600" width="300" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
+  <img height="500" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
 </p>
 
 
