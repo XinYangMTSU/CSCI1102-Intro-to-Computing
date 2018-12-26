@@ -164,7 +164,7 @@ Step 4.
 The arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time. 
 
 The control unit eventually directs memory to release the result to an output device or a secondary storage device. The
-combination of instruction time and execution time is called the machine cycle. Figure 3 shows an instruction going through
+combination of instruction time and execution time is called the machine cycle. Figure 4 shows an instruction going through
 the machine cycle.
 
 <p align="center">
@@ -175,7 +175,6 @@ the machine cycle.
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.gif" alt="common"/>
   https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm
 </p>
-
 
 When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number is
 sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter B
