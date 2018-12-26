@@ -185,3 +185,4 @@ you see. This all happens so quickly it feels instantaneous, but to display each
 instructions, starting from the moment your finger presses the keyboard.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101
