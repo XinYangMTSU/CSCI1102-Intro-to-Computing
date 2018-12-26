@@ -6,9 +6,9 @@ And how does it even work?
 
 In this chapter, you’ll learn how computers work:
 
-### 1.Different parts of the computer that input, output, store and process all information.
+#### 1.Different parts of the computer that input, output, store and process all information.
 
-### 2.How computers do everything from simple math to simulating entire virtual worlds.
+#### 2.How computers do everything from simple math to simulating entire virtual worlds.
 
 ## What makes a computer a computer?
 
@@ -137,13 +137,13 @@ Before an instruction can be executed, program instructions and data must be pla
 secondary storage device. Once the necessary data and instruction are in memory, the central processing unit performs the
 following four steps for each instruction: 
 
-#### 1. The control unit fetches (gets) the instruction from memory. 
+### 1. The control unit fetches (gets) the instruction from memory. 
 
-#### 2. The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time.
+### 2. The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time.
 
-#### 3. The arithmetic/logic unit executes the arithmetic or logical instruction. That is, the ALU is given control and performs the actual operation on the data. 
+### 3. The arithmetic/logic unit executes the arithmetic or logical instruction. That is, the ALU is given control and performs the actual operation on the data. 
 
-#### 4. The arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time. 
+### 4. The arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time. 
 
 The control unit eventually directs memory to release the result to an output device or a secondary storage device. The
 combination of instruction time and execution time is called the machine cycle. Figure 3 shows an instruction going through
