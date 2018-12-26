@@ -141,11 +141,17 @@ Step 1.
 -------
 The control unit fetches (gets) the instruction from memory. 
 
-### 2. The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time.
+Step 2.
+-------
+The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time.
 
-### 3. The arithmetic/logic unit executes the arithmetic or logical instruction. That is, the ALU is given control and performs the actual operation on the data. 
+Step 3.
+------- 
+The arithmetic/logic unit executes the arithmetic or logical instruction. That is, the ALU is given control and performs the actual operation on the data. 
 
-### 4. The arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time. 
+Step 4.
+-------
+The arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time. 
 
 The control unit eventually directs memory to release the result to an output device or a secondary storage device. The
 combination of instruction time and execution time is called the machine cycle. Figure 3 shows an instruction going through
