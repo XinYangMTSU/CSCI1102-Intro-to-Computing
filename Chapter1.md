@@ -73,8 +73,8 @@ output.
 
 * Primary Memory
 
-..1. RAM (Main Memory)
-   ROM
+  * RAM (Main Memory)
+  * ROM
 
 * Secondary Memory
 
