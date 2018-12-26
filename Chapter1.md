@@ -72,15 +72,58 @@ output.
 -----------------
 
 * Primary Memory
-
   * RAM (Main Memory)
   * ROM
 
 * Secondary Memory
+  * Hard Disk
+  * Floppy Drive
+  * CD
 
-Hard Disk
-   Floppy Drive
-   CD
+Computers use two types of storage: Primary storage and secondary storage. Memory is also known as primary storage, primary
+memory, main storage, internal storage, main memory, and RAM (Random Access Memory); all these terms are used interchangeably
+by people in computer circles. The CPU interacts closely with primary storage, or main memory, referring to it for both
+instructions and data. 
+
+A computer's memory holds data only temporarily, at the time the computer is executing a program. Secondary storage holds
+permanent or semi-permanent data on some external magnetic or optical medium. 
+
+
+3.Processor/CPU:
+----------------
+
+* CPU (Central Processing Unit)
+ * Control Unit
+ * Arithmetic/Logic Unit
+
+The control unit of the CPU directs the entire computer system to carry out or execute, stored program instructions. Like an
+orchestra leader, the control unit does not execute program instructions; rather, it directs other parts of the system to do
+so. The control unit must communicate with both the arithmetic/logic unit and memory. 
+
+The arithmetic/logic unit (ALU) executes all arithmetic and logical operations. ALU can perform four kinds of arithmetic
+operations: addition, subtraction, multiplication, and division.
+
+
+4.Output Device:
+----------------
+
+* Printer
+* Monitor
+* Speaker
+* Earphone
+* Projector
+
+A computer display can show texts, photos, videos or interactive games, even virtual reality. The output of a computer may
+even include signals to control a robot. And when computers connect over the internet, the output from one computer becomes
+the input to another and vice versa.
+
+All computers do the same 4 things. Each of these things is done by different part of the computer. There are input devices
+that take input from the outside world and convert it into binary information. There’s the memory to store this information.
+There’s a central processing unit, or CPU, where all the calculations are done. And finally, there are output devices that
+take information and convert it into the physical output.
+
+The CPU is a silicon chip that is the ‘brain’ of a computer system. It executes program instructions and data and controls all
+the devices within the machine.
 
 
 
