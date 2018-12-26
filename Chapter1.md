@@ -20,7 +20,7 @@ This might sound simple, but these four things are common to all computers. And 
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
-   https://www.khanacademy.org/computing/computer-science/how-computers-work2
+  https://www.khanacademy.org/computing/computer-science/how-computers-work2
 </p>
 
 The earliest computers were made out of wood and metal with mechanical levers and gears. By the 20th century though, 
@@ -39,7 +39,7 @@ the size of a room might take hours just to do a basic math problem.
 </p>
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Eniac.jpg" alt="common"/>
-   https://en.wikipedia.org/wiki/ENIAC
+  https://en.wikipedia.org/wiki/ENIAC
 </p>
 
 ENIAC (Electronic Numerical Integrator and Computer) was amongst the earliest electronic general-purpose computers made. 
@@ -132,7 +132,7 @@ the devices within the machine.
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.jpg" alt="common"/>
-   https://turbofuture.com/computers/What-are-the-basic-functions-of-a-CPU
+  https://turbofuture.com/computers/What-are-the-basic-functions-of-a-CPU
 </p>
 
 Before an instruction can be executed, program instructions and data must be placed into memory from an input device or a
