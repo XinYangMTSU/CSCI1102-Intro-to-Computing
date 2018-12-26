@@ -125,6 +125,44 @@ take information and convert it into the physical output.
 The CPU is a silicon chip that is the ‘brain’ of a computer system. It executes program instructions and data and controls all
 the devices within the machine.
 
+<p align="center">
+   Figure 4: A Machine Cycle
+</p>
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.jpg" alt="common"/>
+</p>
+
+Before an instruction can be executed, program instructions and data must be placed into memory from an input device or a
+secondary storage device. Once the necessary data and instruction are in memory, the central processing unit performs the
+following four steps for each instruction: 
+
+#### 1. The control unit fetches (gets) the instruction from memory. 
+
+#### 2. The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time.
+
+#### 3. The arithmetic/logic unit executes the arithmetic or logical instruction. That is, the ALU is given control and performs the actual operation on the data. 
+
+#### 4. The arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time. 
+
+The control unit eventually directs memory to release the result to an output device or a secondary storage device. The
+combination of instruction time and execution time is called the machine cycle. Figure 3 shows an instruction going through
+the machine cycle.
+
+<p align="center">
+   Figure 5: Inside The Computer
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.gif" alt="common"/>
+</p>
+
+When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number is
+sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter B
+pixel-by-pixel. The CPU requests step-by-step instructions from memory, which tell it how to draw the letter B. The CPU runs
+these instructions and stores the results as pixels in memory. Finally, this pixel information is sent in binary to the
+screen. The screen is an output device, which converts the binary signals into the tiny lights and colors that make up what
+you see. This all happens so quickly it feels instantaneous, but to display each letter, a computer runs thousands of
+instructions, starting from the moment your finger presses the keyboard.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
