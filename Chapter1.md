@@ -137,7 +137,9 @@ Before an instruction can be executed, program instructions and data must be pla
 secondary storage device. Once the necessary data and instruction are in memory, the central processing unit performs the
 following four steps for each instruction: 
 
-### 1. The control unit fetches (gets) the instruction from memory. 
+Step 1. 
+-------
+The control unit fetches (gets) the instruction from memory. 
 
 ### 2. The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time.
 
