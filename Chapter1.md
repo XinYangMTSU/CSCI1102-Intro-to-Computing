@@ -17,6 +17,10 @@ This might sound simple, but these four things are common to all computers. And 
 
 ![Four things are common to all computers](https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png "Four things are common to all computers")
 
-<img align="center" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common">
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
+</p>
+
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
