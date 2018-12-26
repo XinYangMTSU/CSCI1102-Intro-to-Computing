@@ -55,12 +55,11 @@ mouse, the microphone, the camera. And now if you’re wearing a computer on you
 a touchscreen can actually sense your finger and it takes that as input on what it’s doing.
 
 1.Input Device:
-====================
-⋅⋅* Unordered sub-list. 
-⋅⋅* Keyboard
-⋅⋅* Mouse
-⋅⋅* Scanner
-⋅⋅* Web Cam
-⋅⋅* Touchscreen
+==================== 
+* Keyboard
+* Mouse
+* Scanner
+* Web Cam
+* Touchscreen
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
