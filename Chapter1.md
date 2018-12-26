@@ -130,6 +130,7 @@ the devices within the machine.
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/cpu.jpg" alt="common"/>
+   https://turbofuture.com/computers/What-are-the-basic-functions-of-a-CPU
 </p>
 
 Before an instruction can be executed, program instructions and data must be placed into memory from an input device or a
