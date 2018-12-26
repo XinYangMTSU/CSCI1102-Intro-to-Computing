@@ -20,14 +20,15 @@ Inside a computer are electric wires and circuits and carry all the information 
   <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
 </p>
 
-How do you store or represent
-information using electricity? Well, if you have a single wire with electricity flowing through it. The signal can either be
-on or off. That’s not a lot of choices. but it’s a really important start. With one wire, you can represent a ‘yes’ or a ‘no’.
-true or false, a one or a zero. or anything else with only two options. This on/off state of a single wire is called a bit.
-and it’s the smallest piece of information the computer can store.
+How do you store or represent information using electricity? Well, if you have a single wire with electricity flowing through
+it. The signal can either be on or off. That’s not a lot of choices. but it’s a really important start. With one wire, you can
+represent a ‘yes’ or a ‘no’. true or false, a one or a zero. or anything else with only two options. This on/off state of a
+single wire is called a bit. 
+
+# A bit (short for binary digit) is the smallest piece of information the computer can store. A bit has a single binary value, either 0 or 1.
 
 <p align="center">
-   Figure 3: Binary Zero and One
+   Figure 3: Bit: Zero and One
 </p>
 
 <p align="center">
