@@ -25,7 +25,7 @@ it. The signal can either be on or off. That’s not a lot of choices. but it’
 represent a ‘yes’ or a ‘no’. true or false, a one or a zero. or anything else with only two options. This on/off state of a
 single wire is called a bit. 
 
-# A bit (short for binary digit) is the smallest piece of information the computer can store. A bit has a single binary value, either 0 or 1.
+## A bit (short for binary digit) is the smallest unit of information the computer can store. A bit has a single binary value, either 0 or 1.
 
 <p align="center">
    Figure 3: Bit: Zero and One
