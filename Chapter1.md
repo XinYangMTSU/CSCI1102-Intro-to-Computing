@@ -54,7 +54,8 @@ First, we’ll talk about input. You can tell a computer what to do with the key
 mouse, the microphone, the camera. And now if you’re wearing a computer on your wrist, it might listen to your heartbeat. And
 a touchscreen can actually sense your finger and it takes that as input on what it’s doing.
 
-### 1.Input Device:
+1.Input Device:
+---------------
 
 * Keyboard
 * Mouse
