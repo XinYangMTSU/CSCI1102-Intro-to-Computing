@@ -26,6 +26,18 @@ on or off. That’s not a lot of choices. but it’s a really important start. W
 true or false, a one or a zero. or anything else with only two options. This on/off state of a single wire is called a bit.
 and it’s the smallest piece of information the computer can store.
 
+<p align="center">
+   Figure 3: Binary Zero and One
+</p>
+
+<p align="center">
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
+</p>
+
+<p align="center">
+   https://delightlylinux.wordpress.com/2014/09/05/binary-lesson-7-bits-and-bytes/
+</p>
+
 If you use more wires, you get more bits. More ones and zeros with more bits.you can represent more complex information. But
 to understand that, we need to learn about something called about the binary number system.
 
@@ -48,8 +60,6 @@ from zero to over four billion. Using the binary number system, you can represen
 
 But what about other types of information.like text ,image, or sound? It turns out that all these things can also be
 represented with numbers.
-
-
 
 
 
