@@ -20,7 +20,10 @@ This might sound simple, but these four things are common to all computers. And 
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
-  https://www.khanacademy.org/computing/computer-science/how-computers-work2
+   https://www.khanacademy.org/computing/computer-science/how-computers-work2
+</p>
+<p align="center">
+   https://www.khanacademy.org/computing/computer-science/how-computers-work2
 </p>
 
 The earliest computers were made out of wood and metal with mechanical levers and gears. By the 20th century though, 
