@@ -10,16 +10,13 @@ In this chapter, you’ll learn how computers work:
 
 2.How computers do everything from simple math to simulating entire virtual worlds.
 
-# What makes a computer a computer?
+## What makes a computer a computer?
 
 It would need to take input, store information, process it, and then output the results. 
 This might sound simple, but these four things are common to all computers. And that’s what makes a computer a computer.
 
-![Four things are common to all computers](https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png "Four things are common to all computers")
-
-
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common" title = "four things are common to all computers"/>
 </p>
 
 
