@@ -72,19 +72,16 @@ output.
 -----------------
 
 * Primary Memory
-..*  RAM (Main Memory)
+
+..1. RAM (Main Memory)
    ROM
 
 * Secondary Memory
-   Hard Disk
+
+Hard Disk
    Floppy Drive
    CD
 
 
-* Keyboard
-* Mouse
-* Scanner
-* Web Cam
-* Touchscreen
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
