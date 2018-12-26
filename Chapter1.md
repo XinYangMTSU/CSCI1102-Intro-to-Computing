@@ -6,8 +6,8 @@ And how does it even work?
 
 In this chapter, you’ll learn how computers work:
 
-1.Different parts of the computer that input, output, store and process all information.
----
+Different parts of the computer that input, output, store and process all information.
+------------------------------------------------------------------------------------------
 
 2.How computers do everything from simple math to simulating entire virtual worlds.
 ---
