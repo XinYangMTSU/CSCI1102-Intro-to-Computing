@@ -7,7 +7,7 @@ You may have heard that computers work on ones and zeros. But almost nobody toda
 </p>
 
 <p align="center">
-  <img height="30" width="40" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/binary.jpg" alt="Binary"/>
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/binary.jpg" alt="Binary"/>
 </p>
 
 Inside a computer are electric wires and circuits and carry all the information in a computer. How do you store or represent
