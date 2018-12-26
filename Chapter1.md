@@ -17,9 +17,11 @@ This might sound simple, but these four things are common to all computers. And 
 
 
 <p align="center">
-  Figure 1:four things are common to all computers
   
+  Figure 1:four things are common to all computers
+  <br>
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/f2.png" alt="common"/>
+  
 </p>
 
 
