@@ -31,7 +31,7 @@ and it’s the smallest piece of information the computer can store.
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
+  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
 </p>
 
 <p align="center">
