@@ -55,5 +55,6 @@ mouse, the microphone, the camera. And now if you’re wearing a computer on you
 a touchscreen can actually sense your finger and it takes that as input on what it’s doing.
 
 Alt-H1 Input Device:
+====================
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
