@@ -57,4 +57,10 @@ a touchscreen can actually sense your finger and it takes that as input on what 
 1.Input Device:
 ====================
 
+⋅⋅* Keyboard
+⋅⋅* Mouse
+⋅⋅* Scanner
+⋅⋅* Web Cam
+⋅⋅* Touchscreen
+
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
