@@ -70,15 +70,15 @@ output.
 
 2.Storage/Memory:
 -----------------
-*Primary Memory
+
+* Primary Memory
    RAM (Main Memory)
    ROM
-*Secondary Memory
+
+* Secondary Memory
    Hard Disk
    Floppy Drive
    CD
-
-
 
 
 * Keyboard
