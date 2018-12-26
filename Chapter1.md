@@ -56,7 +56,7 @@ a touchscreen can actually sense your finger and it takes that as input on what 
 
 1.Input Device:
 ====================
-
+⋅⋅* Unordered sub-list. 
 ⋅⋅* Keyboard
 ⋅⋅* Mouse
 ⋅⋅* Scanner
