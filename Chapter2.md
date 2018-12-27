@@ -60,8 +60,8 @@ In the decimal number system, we have 10 digits from zero to nine. And that’s 
 * `99`  When we run out of digits, we ...
 * `100` ... start back at 0 again, but add 1 on the left
 
-In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a nine in the
-100 position is a 900.
+In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a three in the
+100 position is a 300.
 
 <p align="center">
    Figure 4: Three hundred and twenty seven
