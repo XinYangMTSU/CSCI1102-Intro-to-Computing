@@ -150,7 +150,7 @@ It is binary code used by electronic equipment to handle text using the English 
 </p>
 
 <p align="center">
-  <img height = "400px" width = "600px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ASCII.png" alt="ASCII Talbe"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ASCII.png" alt="ASCII Talbe"/>
 </p>
 
 <p align="center">
@@ -176,6 +176,27 @@ pixels, and a typical video shows 30 images per second, now, there are a lot of 
 </p>
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Audio in Binary`
+
+Every sound is basically a series of vibrations in the ear. Vibrations can be represented graphically as a waveform. Any point
+on this waveform can be represented by a number. And this way, any sound can be broken down into a series of numbers. If you
+want higher-quality sound, you will pick 32-bit audio over 8-bit audio. More bits means a higher range of numbers.
+
+<p align="center">
+   Figure 10: Sound in Binary
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/sound.png" alt="Sound Waveform"/>
+</p>
+
+<p align="center">
+   Curtesy of https://www.khanacademy.org/
+</p>
+
+When you use a computer to write code, or make your own app, you’re not dealing directly with these ones and zeros, but you
+will be dealing with images, or sound, or video. So, if you want to understand how computers work on the inside, it all comes
+down to these simple ones and zeros. and the electrical signals in the circuits behind them. They are the backbone of how all
+computers input, store, process, and output information.
 
 ```diff
 + this will be highlighted in green
