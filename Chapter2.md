@@ -211,6 +211,17 @@ computers input, store, process, and output information.
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Kilobyte KB - about 1 thousand bytes`
 	A small email text is about 2KB
 	Text does not take a lot of bytes to store compared to image or video
+	
+### ![#0099ff](https://placehold.it/15/ff00ff/000000?text=+) `Megabyte MB - about 1 million bytes`
+	MP3 audio is about 1 megabyte per minute
+	A high quality digital picture is about 2-5 megabytes	
+	
+### ![#cc0066](https://placehold.it/15/ff00ff/000000?text=+) `Gigabyte GB - about 1 billion bytes`
+	MP3 audio is about 1 megabyte per minute
+	An ordinary computer might have 8GB RAM
+	
+### ![#009900](https://placehold.it/15/ff00ff/000000?text=+) `Terabyte TB - about 1,000,000,000,000 bytes`
+	You can buy TB hard drives todya
 
 ```diff
 + this will be highlighted in green
