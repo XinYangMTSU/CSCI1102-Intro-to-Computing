@@ -63,9 +63,6 @@ also known as an “OS”, interfaces with the computer’s hardware and provide
 https://www.howtogeek.com/361572/what-is-an-operating-system/
 </p>
 
-When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
-between programs, sharing that CPU for fractions of a second. 
-
 ### ![#6699ff](https://placehold.it/15/6699ff/000000?text=+) `The Operating System full picture`
 
 ### `1. Starts running when the computer "boots up"`
@@ -90,3 +87,9 @@ between programs, sharing that CPU for fractions of a second.
 <p align="center">
 https://web.stanford.edu/class/cs101/lecture02.html#/21
 </p>
+
+The Operating System load the program file from the file system (persistent storage). Copy machine code from persistent
+storage to RAM. Each program gets its own RAM. CPU starts "fetch/decode/execute/store" machine cycle.
+
+When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
+between programs, sharing that CPU for fractions of a second. 
