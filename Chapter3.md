@@ -30,6 +30,10 @@ how it knows which circuits to use and when to use them.
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/hs.png" alt="hardware"/>
 </p>
 
+<p align="center">
+https://en.wikipedia.org/wiki/Operating_system
+</p>
+
 The CPU receives simple commands that tell it which circuit to use to do a specific job. The binary commands are stored in
 memory and the CPU fetches and executes them in sequence one after the other. This sequence of commands is in fact the very
 simple computer program.
