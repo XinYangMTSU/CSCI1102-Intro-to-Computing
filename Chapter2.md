@@ -117,7 +117,7 @@ the larger the numbers you can store.
 </p>
 
 <p align="center">
-  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bd.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bd.png" alt="Binary"/>
 </p>
 
 With eight wires, you can store numbers between 0 and 255. That’s eight bits. 
