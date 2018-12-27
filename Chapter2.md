@@ -108,12 +108,21 @@ For example, the number nine in binary is 1001. Almost nobody does this math bec
 is that any number can be represented with only ones and zeros. or by a bunch of wires that are on or off. The more wires use,
 the larger the numbers you can store.
 
-With eight wires, you can store numbers between 0 and 255. That’s eight ones. With just 32 wires, you can store all the way
-from zero to over four billion. Using the binary number system, you can represent any number you like.
+With eight wires, you can store numbers between 0 and 255. That’s eight ones. 
 
-But what about other types of information.like text ,image, or sound? It turns out that all these things can also be
-represented with numbers.
+## In most computer systems, a byte is a unit of data that is eight binary digits.
 
+<p align="center">
+   Figure 6: Byte
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bit.jpg" alt="Binary"/>
+</p>
+
+With just 32 wires, you can store all the way from zero to over four billion. Using the binary number system, you can
+represent any number you like.But what about other types of information.like text ,image, or sound? It turns out that all
+these things can also be represented with numbers.
 
 ```diff
 + this will be highlighted in green
