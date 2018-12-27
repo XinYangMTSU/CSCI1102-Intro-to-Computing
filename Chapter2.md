@@ -47,10 +47,11 @@ number system, we only have two digits, zero and one. With these two digits, we 
 works.
 
 # How do we count in Decimal?
-   * 0	   Start at 0
- 	* ...	Count 1,2,3,4,5,6,7,8, and then...
- 	* 9	 	This is the last digit in Decimal
- 	* 10	 	So we start back at 0 again, but add 1 on the left
+
+* 0	   Start at 0
+* ...	Count 1,2,3,4,5,6,7,8, and then...
+* 9	 	This is the last digit in Decimal
+* 10	 	So we start back at 0 again, but add 1 on the left
 
 In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a nine in the
 100 position is a 900.
