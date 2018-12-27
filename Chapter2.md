@@ -101,7 +101,7 @@ poison, 2 position, 4 position, 8 position, and so on.
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2d.png" alt="Binary"/>
+  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2d.png" alt="Binary"/>
 </p>
 
 For example, the number nine in binary is 1001. Almost nobody does this math because computer do it for us. What’s important
