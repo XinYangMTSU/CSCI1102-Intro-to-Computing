@@ -3,8 +3,8 @@
 In this chapter, you’ll learn how information is represented inside the computer:
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Binary System.`
-
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Data representation in binary.`
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. KiloByte, MegaByte, GigaByte, TeraByte.`
 
 # `1. Binary System`
 
@@ -205,7 +205,7 @@ will be dealing with images, or sound, or video. So, if you want to understand h
 down to these simple ones and zeros. and the electrical signals in the circuits behind them. They are the backbone of how all
 computers input, store, process, and output information.
 
-# Kilobyte, Megabyte, Gigabyte, Terabyte
+# `3. Kilobyte, Megabyte, Gigabyte, Terabyte`
 
 <p align="center">
    Figure 11: Kilobyte, Megabyte, Gigabyte, Terabyte
