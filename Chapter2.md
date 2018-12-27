@@ -26,10 +26,10 @@ Inside a computer are electric wires and circuits and carry all the information 
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
 </p>
 
-How do you store or represent information using electricity? Well, if you have a single wire with electricity flowing through
-it. The signal can either be on or off. That’s not a lot of choices. but it’s a really important start. With one wire, you can
-represent a ‘yes’ or a ‘no’. true or false, a one or a zero. or anything else with only two options. This on/off state of a
-single wire is called a bit. 
+How do the computers store or represent information using electricity? Well, if you have a single wire with electricity
+flowing through it. The signal can either be on or off. That’s not a lot of choices. but it’s a really important start. With
+one wire, you can represent a ‘yes’ or a ‘no’. true or false, a one or a zero. or anything else with only two options. This
+on/off state of a single wire is called a bit. 
 
 ## A `bit` (short for binary digit) is the smallest unit of information the computer can store. A bit has a single binary value, either 0 or 1.
 
@@ -137,6 +137,19 @@ represent any number you like. But what about other types of information? Like t
 these things can also be represented with numbers.
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Text in Binary` 
+
+Think of all the letters in the alphabet. You could assign a number to each letter. “A” could be “1”, “B” could be “2”, and so
+on. You can then represent any word or paragraph as a sequence of numbers, and as we saw, these numbers can be stored as on or
+off electrical signals. Every word you see on every webpage or your phone is represented using a system like this.
+
+<p align="center">
+   Figure 8: ASCII Talbe
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ASCII.png" alt="ASCII Talbe"/>
+</p>
+
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Image in Binary`
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Audio in Binary`
 
