@@ -70,13 +70,13 @@ between programs, sharing that CPU for fractions of a second.
 
 ### 1. Starts running when the computer "boots up"
 ### 2. Manager/supervisor
-   Starting/stopping programs
-   Manages RAM, persistent storage, and other shared resources between programs
+   * Starting/stopping programs
+   * Manages RAM, persistent storage, and other shared resources between programs
 ### 3. Can run multiple programs at once ("sandboxing")
 ### 4. Allows a computer to change over time (updates)
 ### 5. Other responsibilities:
-   File system
-   Manages windows
-   Some basic programs
+   * File system
+   * Manages windows
+   * Some basic programs
 
 
