@@ -8,7 +8,7 @@ In this chapter, you’ll learn how computers work:
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Different parts of the computer that input, output, store and process all information.`
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. How computers do everything from simple math to simulating entire virtual worlds.`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. How computers do everything from simple math to simulating the entire virtual worlds.`
 
 ## What makes a computer a computer?
 
