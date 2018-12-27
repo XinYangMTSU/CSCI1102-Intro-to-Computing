@@ -47,10 +47,11 @@ place, and how can the CPU run them all at once? To find out, we have to take a 
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Operating System`
 
-An `operating system (OS)` is system software that manages computer hardware and software resources and provides common
-services for computer programs. The operating system of a computer is the master program that manages how software gets to use
-the hardware of the computer. The operating system is a program with special abilities that let it control the other software
-on the computer. 
+An `operating system` is system software that manages all the hardware and other software on a computer. The operating system,
+also known as an “OS”, interfaces with the computer’s hardware and provides services that applications can use.
 
 When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
 between programs, sharing that CPU for fractions of a second. 
+
+
+
