@@ -23,7 +23,7 @@ Inside a computer are electric wires and circuits and carry all the information 
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/wc.png" alt="Binary"/>
 </p>
 
 How do you store or represent information using electricity? Well, if you have a single wire with electricity flowing through
@@ -38,7 +38,7 @@ single wire is called a bit.
 </p>
 
 <p align="center">
-  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
 </p>
 
 <p align="center">
