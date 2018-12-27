@@ -68,7 +68,7 @@ In decimal number system, there’s the one position, the 10 position, the 100 p
 </p>
 
 <p align="center">
-  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/327.png" alt="Binary"/>
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/327.png" alt="Binary"/>
 </p>
 
 <p align="center">
