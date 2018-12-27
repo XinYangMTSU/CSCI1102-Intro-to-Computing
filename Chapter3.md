@@ -45,7 +45,7 @@ Software tells the CPU what to do, but when you’re listening to music and brow
 computer is running multiple pieces of software all at once. So how do all of these programs get on the computer in the first
 place, and how can the CPU run them all at once? To find out, we have to take a look at operating system.
 
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Operating System
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Operating System`
 
 An `operating system (OS)` is system software that manages computer hardware and software resources and provides common
 services for computer programs. The operating system of a computer is the master program that manages how software gets to use
