@@ -168,7 +168,7 @@ pixels, and a typical video shows 30 images per second, now, there are a lot of 
 </p>
 
 <p align="center">
-  <img height = "400px" width = "600px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/rgb.png" alt="Image"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/rgb.png" alt="Image"/>
 </p>
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Audio in Binary`
