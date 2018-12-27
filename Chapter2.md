@@ -51,7 +51,7 @@ to understand that, we need to learn about something called about the `binary` n
 In the decimal number system, we have 10 digits from zero to nine. And that’s how we’ve all learned to count. 
 
 # How do we count in Decimal?
-```
+
 * `0`   Start at 0
 * ...	  Count 1,2,3,4,5,6,7,8, and then...
 * `9`	  This is the last digit in Decimal
@@ -59,13 +59,28 @@ In the decimal number system, we have 10 digits from zero to nine. And that’s 
 * ...	  Count 11,12,13,14,15,16,17,18,19,20,21,22,...,97,98 and then...
 * `99`  When we run out of digits, we ...
 * `100` ... start back at 0 again, but add 1 on the left
-```
+
 In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a nine in the
 100 position is a 900.
 
 In the binary
 number system, we only have two digits, zero and one. With these two digits, we can count put to any number. Here’s who this
 works.
+
+# How do we count in Binary?
+	 	 
+* `0`   Start at 0
+* `1`	  Then 1
+* `10`  Start back at 0 again, but add 1 on the left
+* `11`	 	 
+* `100` Start back at 0 again, and add one to the number on the left...
+        ... but that number is already at 1 so it also goes back to 0 ...
+        ... and 1 is added to the next position on the left
+* `101`	 	 
+* `110`	 	 
+* `111`	 	 
+* `1000` Start back at 0 again (for all 3 digits), add 1 on the left
+* `1001`	And so on!
 
 In binary, each position also carries a value, but instead of multiplying by 10 each time, you multiply by two. there’s 1
 poison, 2 position, 4 position, 8 position, and so on.
