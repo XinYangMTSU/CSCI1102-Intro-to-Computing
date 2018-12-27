@@ -50,6 +50,14 @@ place, and how can the CPU run them all at once? To find out, we have to take a 
 An `operating system` is system software that manages all the hardware and other software on a computer. The operating system,
 also known as an “OS”, interfaces with the computer’s hardware and provides services that applications can use.
 
+<p align="center">
+   Figure 3: Four common Operating System
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/os.png" alt="os"/>
+</p>
+
 When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
 between programs, sharing that CPU for fractions of a second. 
 
