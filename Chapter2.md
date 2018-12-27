@@ -136,7 +136,7 @@ With just 32 wires, you can store all the way from zero to over four billion. Us
 represent any number you like. But what about other types of information? Like text, image, or sound? It turns out that all 
 these things can also be represented with numbers.
 
-### `Text in Binary` ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Text in Binary` 
 ### `Image in Binary`
 ### `Audio in Binary`
 
