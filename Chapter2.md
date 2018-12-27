@@ -39,15 +39,24 @@ single wire is called a bit.
    https://delightlylinux.wordpress.com/2014/09/05/binary-lesson-7-bits-and-bytes/
 </p>
 
-If you use more wires, you get more bits. More ones and zeros with more bits.you can represent more complex information. But
+If you use more wires, you get more bits. More ones and zeros with more bits. You can represent more complex information. But
 to understand that, we need to learn about something called about the binary number system.
 
 In the decimal number system, we have 10 digits from zero to nine. and that’s how we’ve all learned to count. In the binary
 number system, we only have two digits, zero and one. With these two digits, we can count put to any number. Here’s who this
 works.
 
+# How do we count in Decimal?
+
+   0	   Start at 0
+ 	...	Count 1,2,3,4,5,6,7,8, and then...
+ 	9	 	This is the last digit in Decimal
+ 	10	 	So we start back at 0 again, but add 1 on the left
+
 In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a nine in the
 100 position is a 900.
+
+
 
 In binary, each position also carries a value, but instead of multiplying by 10 each time, you multiply by two. there’s 1
 poison, 2 position, 4 position, 8 position, and so on.
