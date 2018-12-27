@@ -223,7 +223,3 @@ computers input, store, process, and output information.
 ### ![#009900](https://placehold.it/15/009900/000000?text=+) `Terabyte TB - about 1,000,000,000,000 bytes`
 	You can buy TB hard drives todya
 
-```diff
- this will be highlighted in green
- this will be highlighted in red
-```
