@@ -68,13 +68,13 @@ between programs, sharing that CPU for fractions of a second.
 
 ### ![#6699ff](https://placehold.it/15/6699ff/000000?text=+) `What Operating System do?`
 
-### 1. Starts running when the computer "boots up"
-### 2. Manager/supervisor
+### `1. Starts running when the computer "boots up"`
+### `2. Manager/supervisor`
    * Starting/stopping programs
    * Manages RAM, persistent storage, and other shared resources between programs
-### 3. Can run multiple programs at once ("sandboxing")
-### 4. Allows a computer to change over time (updates)
-### 5. Other responsibilities:
+### `3. Can run multiple programs at once ("sandboxing")`
+### `4. Allows a computer to change over time (updates)`
+### `5. Other responsibilities:`
    * File system
    * Manages windows
    * Some basic programs
