@@ -1,4 +1,4 @@
-# Chapter 2: Binary & Data
+# Chapter 2: Binary & Data Representation
 
 In this chapter, you’ll learn how information is represented inside the computer:
 
@@ -133,8 +133,12 @@ With eight wires, you can store numbers between 0 and 255. That’s eight bits.
 </p>
 
 With just 32 wires, you can store all the way from zero to over four billion. Using the binary number system, you can 
-represent any number you like. But what about other types of information. like text ,image, or sound? It turns out that all 
+represent any number you like. But what about other types of information? Like text, image, or sound? It turns out that all 
 these things can also be represented with numbers.
+
+### `Text in Binary`
+### `Image in Binary`
+### `Audio in Binary`
 
 ```diff
 + this will be highlighted in green
