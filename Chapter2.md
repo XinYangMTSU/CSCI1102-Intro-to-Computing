@@ -198,6 +198,16 @@ will be dealing with images, or sound, or video. So, if you want to understand h
 down to these simple ones and zeros. and the electrical signals in the circuits behind them. They are the backbone of how all
 computers input, store, process, and output information.
 
+### Kilobyte, Megabyte, Gigabyte, Terabyte
+
+<p align="center">
+   Figure 11: Kilobyte, Megabyte, Gigabyte, Terabyte
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b.png" alt="Byte"/>
+</p>
+
 ```diff
 + this will be highlighted in green
 - this will be highlighted in red
