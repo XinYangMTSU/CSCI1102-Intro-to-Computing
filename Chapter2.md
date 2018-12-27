@@ -60,7 +60,7 @@ In the decimal number system, we have 10 digits from zero to nine. And that’s 
 * `99`  When we run out of digits, we ...
 * `100` ... start back at 0 again, but add 1 on the left
 
-In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a three in the
+In decimal number system, there’s the 1s position, the 10s position, the 100s position, and so on. For example, a three in the
 100 position is a 300.
 
 <p align="center">
@@ -75,9 +75,8 @@ In decimal number system, there’s the one position, the 10 position, the 100 p
    https://www.mathsisfun.com/decimals.html
 </p>
 
-In the binary
-number system, we only have two digits, zero and one. With these two digits, we can count put to any number. Here’s who this
-works.
+In the binary number system, we only have two digits, zero and one. With these two digits, we can count put to any number.
+Here’s how this works.
 
 # How do we count in Binary?
 	 	 
@@ -85,9 +84,9 @@ works.
 * `1`	  Then 1
 * `10`  Start back at 0 again, but add 1 on the left
 * `11`	 	 
-* `100` Start back at 0 again, and add one to the number on the left...
-        ... but that number is already at 1 so it also goes back to 0 ...
-        ... and 1 is added to the next position on the left
+* `100` Start back at 0 again, and add one to the number on the left... <br/>
+        ... but that number is already at 1 so it also goes back to 0 ... <br/>	
+        ... and 1 is added to the next position on the left <br/>
 * `101`	 	 
 * `110`	 	 
 * `111`	 	 
