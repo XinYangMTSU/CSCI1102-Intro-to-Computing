@@ -150,7 +150,7 @@ It is binary code used by electronic equipment to handle text using the English 
 </p>
 
 <p align="center">
-  <img height = "400px" width = "400px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ASCII.png" alt="ASCII Talbe"/>
+  <img height = "400px" width = "500px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ASCII.png" alt="ASCII Talbe"/>
 </p>
 
 <p align="center">
