@@ -6,8 +6,7 @@ running on this machine. Software can be anything from apps and games to webpage
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Hardware - Physical components that make up a computer system.`
 
-### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Software - Computer programs and related data that provide the
-instructions for telling computer hardware what to do and how to do it.`
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Software - Computer programs and related data that provide the instructions for telling computer hardware what to do and how to do it.`
 
 <p align="center">
    Figure 1: Standard hardware components
