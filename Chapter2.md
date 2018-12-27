@@ -2,9 +2,9 @@
 
 In this chapter, you’ll learn how information is represented inside the computer:
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ### `1. Binary System.`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Binary System.`
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ### `2. Data representation in binary.`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Data representation in binary.`
 
 You may have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and zeros, but ones and zeros do play a big role in how computers work on the inside.
 
@@ -136,7 +136,7 @@ With just 32 wires, you can store all the way from zero to over four billion. Us
 represent any number you like. But what about other types of information? Like text, image, or sound? It turns out that all 
 these things can also be represented with numbers.
 
-### `Text in Binary`
+### `Text in Binary` ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ### `Image in Binary`
 ### `Audio in Binary`
 
