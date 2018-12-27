@@ -138,9 +138,12 @@ these things can also be represented with numbers.
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Text in Binary` 
 
-Think of all the letters in the alphabet. You could assign a number to each letter. “A” could be “1”, “B” could be “2”, and so
-on. You can then represent any word or paragraph as a sequence of numbers, and as we saw, these numbers can be stored as on or
-off electrical signals. Every word you see on every webpage or your phone is represented using a system like this.
+Think of all the letters in the alphabet. You could assign a number to each letter. ``A” could be ``65”, “B” could be “66”,
+and so on. You can then represent any word or paragraph as a sequence of numbers, and as we saw, these numbers can be stored
+as on or off electrical signals. Every word you see on every webpage or your phone is represented using a system like this.
+
+ASCII is an abbreviation for American Standard Code for Information Interchange. ASCII is a table of characters for computers.
+It is binary code used by electronic equipment to handle text using the English alphabet, numbers, and other common symbols. 
 
 <p align="center">
    Figure 8: ASCII Talbe
@@ -148,6 +151,10 @@ off electrical signals. Every word you see on every webpage or your phone is rep
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ASCII.png" alt="ASCII Talbe"/>
+</p>
+
+<p align="center">
+   https://simple.wikipedia.org/wiki/ASCII
 </p>
 
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Image in Binary`
