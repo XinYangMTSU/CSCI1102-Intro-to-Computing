@@ -48,7 +48,9 @@ works.
 
 # How do we count in Decimal?
 
-* ![#f03c15] 0	   Start at 0
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
+* 0	   Start at 0
 * ...	Count 1,2,3,4,5,6,7,8, and then...
 * 9	 	This is the last digit in Decimal
 * 10	 	So we start back at 0 again, but add 1 on the left
