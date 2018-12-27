@@ -58,6 +58,10 @@ also known as an “OS”, interfaces with the computer’s hardware and provide
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/os.png" alt="os"/>
 </p>
 
+<p align="center">
+https://www.howtogeek.com/361572/what-is-an-operating-system/
+</p>
+
 When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
 between programs, sharing that CPU for fractions of a second. 
 
