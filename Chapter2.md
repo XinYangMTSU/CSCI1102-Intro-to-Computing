@@ -50,6 +50,11 @@ works.
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=Zero) `#f03c15`
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
+
 * 0	   Start at 0
 * ...	Count 1,2,3,4,5,6,7,8, and then...
 * 9	 	This is the last digit in Decimal
