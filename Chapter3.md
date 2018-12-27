@@ -4,6 +4,18 @@ When you look inside a computing device,you see a bunch of circuits, chips, wire
 stuff. This is the hardware. But what you don’t see is the software. Software is all of the computer programs, or code,
 running on this machine. Software can be anything from apps and games to webpages and data science software. 
 
+<p align="center">
+   Figure 1: Hardware
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/hd.png" alt="hardware"/>
+</p>
+
+<p align="center">
+   Courtesy of https://www.khanacademy.org/
+</p>
+
 How do the hardware and the software interact with one another? Let’s start at looking at a computers’s central processing
 unit, or CPU. The CPU is the master chip that controls all the other parts of the computer. A CPU needs to do different
 things, so inside it has smaller, simpler parts that handle specific tasks. It has circuits to do simple math and logic, it
