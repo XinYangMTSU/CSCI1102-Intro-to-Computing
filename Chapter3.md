@@ -88,8 +88,8 @@ https://www.howtogeek.com/361572/what-is-an-operating-system/
 https://web.stanford.edu/class/cs101/lecture02.html#/21
 </p>
 
-The Operating System load the program file from the file system (persistent storage). Copy machine code from persistent
-storage to RAM. Each program gets its own RAM. CPU starts "fetch/decode/execute/store" machine cycle.
+The OS load the program file from the file system (persistent storage). Copy machine code from persistent
+storage to RAM. Each program gets its own RAM. The OS starts CPU to run "fetch/decode/execute/store" machine cycle.
 
 When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
 between programs, sharing that CPU for fractions of a second. 
