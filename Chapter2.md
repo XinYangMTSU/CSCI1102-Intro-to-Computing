@@ -104,25 +104,39 @@ poison, 2 position, 4 position, 8 position, and so on.
   <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2d.png" alt="Binary"/>
 </p>
 
+<p align="center">
+https://ncalculators.com/number-conversion/binary-to-decimal-hexa-octal-converter.htm
+</p>
+
 For example, the number nine in binary is 1001. Almost nobody does this math because computer do it for us. What’s important
 is that any number can be represented with only ones and zeros. or by a bunch of wires that are on or off. The more wires use,
 the larger the numbers you can store.
+
+<p align="center">
+   Figure 6: Binary and Decimal equivalents of 0 to 15
+</p>
+
+<p align="center">
+  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bd.png" alt="Binary"/>
+</p>
 
 With eight wires, you can store numbers between 0 and 255. That’s eight bits. 
 
 ## In most computer systems, a `byte` is a unit of data that is eight binary digits.
 
 <p align="center">
-   Figure 6: Byte
+   Figure 7: Byte
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bit.jpg" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bit.jpg" alt="Byte vs Bit"/>
 </p>
 
-With just 32 wires, you can store all the way from zero to over four billion. Using the binary number system, you can
-represent any number you like.But what about other types of information.like text ,image, or sound? It turns out that all
-these things can also be represented with numbers.
+With just 32 wires, you can store all the way from zero to over four billion. 
+
+
+
+Using the binary number system, you can represent any number you like. But what about other types of information. like text ,image, or sound? It turns out that all these things can also be represented with numbers.
 
 ```diff
 + this will be highlighted in green
