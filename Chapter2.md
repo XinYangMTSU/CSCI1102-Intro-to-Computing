@@ -54,8 +54,9 @@ works.
 + this will be highlighted in green
 - this will be highlighted in red
 ```
+**This is a test**
 
-* **Test 0**	   Start at 0
+* 0	   Start at 0
 * ...	Count 1,2,3,4,5,6,7,8, and then...
 * 9	 	This is the last digit in Decimal
 * 10	 	So we start back at 0 again, but add 1 on the left
