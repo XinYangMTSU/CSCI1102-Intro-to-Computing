@@ -16,7 +16,6 @@ running on this machine. Software can be anything from apps and games to webpage
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/hd.png" alt="hardware"/>
 </p>
 
-
 How do the hardware and the software interact with one another? Let’s start at looking at a computers’s central processing
 unit, or CPU. The CPU is the master chip that controls all the other parts of the computer. A CPU needs to do different
 things, so inside it has smaller, simpler parts that handle specific tasks. It has circuits to do simple math and logic, it
@@ -36,6 +35,14 @@ place, and how can the CPU run them all at once? To find out, we have to take a 
 
 The operating system of a computer is the master program that manages how software gets to use the hardware of the computer.
 The operating system is a program with special abilities that let it control the other software on the computer. 
+
+<p align="center">
+   Figure 2: Relationship between Hardware and Software
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/hs.png" alt="hardware"/>
+</p>
 
 When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
 between programs, sharing that CPU for fractions of a second. 
