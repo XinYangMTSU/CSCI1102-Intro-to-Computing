@@ -1,8 +1,9 @@
 # Chapter 3: Hardware and Software
 
-When you look inside a computing device,you see a bunch of circuits, chips, wires, speakers, plugs, and all sorts of other
-stuff. This is the hardware. But what you don’t see is the software. Software is all of the computer programs, or code,
-running on this machine. Software can be anything from apps and games to webpages and data science software. 
+Computer hardware includes the physical components of a computer, such as the central processing unit, monitor, keyboard,
+computer data storage, graphic card, sound card, speakers and motherboard. Software is instructions that can be stored and run
+by hardware. Software is all of the computer programs, or code, running on this machine. Software can be anything from apps
+and games to webpages and data science software. 
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Hardware - Physical components that make up a computer system.`
 
