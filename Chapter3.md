@@ -66,6 +66,8 @@ https://www.howtogeek.com/361572/what-is-an-operating-system/
 When you think your computer is running many programs at once, in reality, its the operating system that’s quickly switching
 between programs, sharing that CPU for fractions of a second. 
 
+### ![#6699ff](https://placehold.it/15/6699ff/000000?text=+) `What Operating System do?`
+
 ### 1. Starts running when the computer "boots up"
 ### 2. Manager/supervisor
    Starting/stopping programs
