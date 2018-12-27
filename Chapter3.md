@@ -79,4 +79,14 @@ between programs, sharing that CPU for fractions of a second.
    * Manages windows
    * Some basic programs
 
+<p align="center">
+   Figure 4: The Operating System Full Picture
+</p>
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/os2.png" alt="os"/>
+</p>
+
+<p align="center">
+https://web.stanford.edu/class/cs101/lecture02.html#/21
+</p>
