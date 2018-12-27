@@ -1,5 +1,11 @@
 # Chapter 2: Binary & Data
 
+In this chapter, you’ll learn how information is represented inside the computer:
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Binary System.`
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Data representation in binary.`
+
 You may have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and zeros, but ones and zeros do play a big role in how computers work on the inside.
 
 <p align="center">
@@ -40,15 +46,11 @@ single wire is called a bit.
 </p>
 
 If you use more wires, you get more bits. More ones and zeros with more bits. You can represent more complex information. But
-to understand that, we need to learn about something called about the binary number system.
+to understand that, we need to learn about something called about the `binary` number system.
 
-In the decimal number system, we have 10 digits from zero to nine. and that’s how we’ve all learned to count. In the binary
-number system, we only have two digits, zero and one. With these two digits, we can count put to any number. Here’s who this
-works.
+In the decimal number system, we have 10 digits from zero to nine. And that’s how we’ve all learned to count. 
 
 # How do we count in Decimal?
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+0) `#f03c15`
 
 ```diff
 + this will be highlighted in green
@@ -59,15 +61,16 @@ works.
 * ...	  Count 1,2,3,4,5,6,7,8, and then...
 * `9`	  This is the last digit in Decimal
 * `10`  So we start back at 0 again, but add 1 on the left
-* ...	  Count 11,12,13,14,15,16,17,18,19,20,21,22,98 and then...
+* ...	  Count 11,12,13,14,15,16,17,18,19,20,21,22,...,97,98 and then...
 * `99`  When we run out of digits, we ...
 * `100` ... start back at 0 again, but add 1 on the left
-
 
 In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a nine in the
 100 position is a 900.
 
-
+In the binary
+number system, we only have two digits, zero and one. With these two digits, we can count put to any number. Here’s who this
+works.
 
 In binary, each position also carries a value, but instead of multiplying by 10 each time, you multiply by two. there’s 1
 poison, 2 position, 4 position, 8 position, and so on.
