@@ -108,9 +108,9 @@ For example, the number nine in binary is 1001. Almost nobody does this math bec
 is that any number can be represented with only ones and zeros. or by a bunch of wires that are on or off. The more wires use,
 the larger the numbers you can store.
 
-With eight wires, you can store numbers between 0 and 255. That’s eight ones. 
+With eight wires, you can store numbers between 0 and 255. That’s eight bits. 
 
-## In most computer systems, a byte is a unit of data that is eight binary digits.
+## In most computer systems, a `byte` is a unit of data that is eight binary digits.
 
 <p align="center">
    Figure 6: Byte
