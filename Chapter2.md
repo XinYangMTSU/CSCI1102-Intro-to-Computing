@@ -96,6 +96,14 @@ Here’s how this works.
 In binary, each position also carries a value, but instead of multiplying by 10 each time, you multiply by two. there’s 1
 poison, 2 position, 4 position, 8 position, and so on.
 
+<p align="center">
+   Figure 5: Binary to Decimal
+</p>
+
+<p align="center">
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2d.png" alt="Binary"/>
+</p>
+
 For example, the number nine in binary is 1001. Almost nobody does this math because computer do it for us. What’s important
 is that any number can be represented with only ones and zeros. or by a bunch of wires that are on or off. The more wires use,
 the larger the numbers you can store.
