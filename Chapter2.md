@@ -34,15 +34,15 @@ single wire is called a bit.
 ## A bit (short for binary digit) is the smallest unit of information the computer can store. A bit has a single binary value, either 0 or 1.
 
 <p align="center">
-   Figure 3: Bit: Zero and One
+   Figure 4: Three hundred and twenty seven
 </p>
 
 <p align="center">
-  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
+  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/327.png" alt="Binary"/>
 </p>
 
 <p align="center">
-   https://delightlylinux.wordpress.com/2014/09/05/binary-lesson-7-bits-and-bytes/
+   https://www.mathsisfun.com/decimals.html
 </p>
 
 If you use more wires, you get more bits. More ones and zeros with more bits. You can represent more complex information. But
@@ -62,6 +62,14 @@ In the decimal number system, we have 10 digits from zero to nine. And that’s 
 
 In decimal number system, there’s the one position, the 10 position, the 100 position, and so on. For example, a nine in the
 100 position is a 900.
+
+<p align="center">
+   Figure 3: Bit: Zero and One
+</p>
+
+<p align="center">
+  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2.png" alt="Binary"/>
+</p>
 
 In the binary
 number system, we only have two digits, zero and one. With these two digits, we can count put to any number. Here’s who this
