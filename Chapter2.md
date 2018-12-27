@@ -137,8 +137,8 @@ represent any number you like. But what about other types of information? Like t
 these things can also be represented with numbers.
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Text in Binary` 
-### `Image in Binary`
-### `Audio in Binary`
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Image in Binary`
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Audio in Binary`
 
 ```diff
 + this will be highlighted in green
