@@ -132,11 +132,9 @@ With eight wires, you can store numbers between 0 and 255. That’s eight bits.
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/bit.jpg" alt="Byte vs Bit"/>
 </p>
 
-With just 32 wires, you can store all the way from zero to over four billion. 
-
-
-
-Using the binary number system, you can represent any number you like. But what about other types of information. like text ,image, or sound? It turns out that all these things can also be represented with numbers.
+With just 32 wires, you can store all the way from zero to over four billion. Using the binary number system, you can 
+represent any number you like. But what about other types of information. like text ,image, or sound? It turns out that all 
+these things can also be represented with numbers.
 
 ```diff
 + this will be highlighted in green
