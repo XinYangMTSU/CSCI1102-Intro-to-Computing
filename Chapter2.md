@@ -68,7 +68,7 @@ In decimal number system, there’s the 1s position, the 10s position, the 100s 
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/327.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/327.png" alt="Binary"/>
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ poison, 2 position, 4 position, 8 position, and so on.
 </p>
 
 <p align="center">
-  <img height="400" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2d.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/b2d.png" alt="Binary"/>
 </p>
 
 <p align="center">
