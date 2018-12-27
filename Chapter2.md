@@ -157,7 +157,20 @@ It is binary code used by electronic equipment to handle text using the English 
    https://simple.wikipedia.org/wiki/ASCII
 </p>
 
-### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Image in Binary`
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Image/Video in Binary`
+
+Now, let’s consider images, videos and all the graphics you see on a screen. All of these images are made out of tiny dots
+called pixels, and each pixel can be represented with numbers. When you consider that a typical image has millions of these
+pixels, and a typical video shows 30 images per second, now, there are a lot of data here. 
+
+<p align="center">
+   Figure 9: Image in Binary
+</p>
+
+<p align="center">
+  <img height = "400px" width = "600px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/rgb.png" alt="Image"/>
+</p>
+
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Audio in Binary`
 
 ```diff
