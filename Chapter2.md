@@ -137,7 +137,7 @@ represent any number you like. But what about other types of information? Like t
 these things can also be represented with numbers.
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Text in Binary` 
-```
+
 Think of all the letters in the alphabet. You could assign a number to each letter. “A” could be “65”, “B” could be
 “66”, and so on. You can then represent any word or paragraph as a sequence of numbers, and as we saw, these numbers
 can be stored as on or off electrical signals. Every word you see on every webpage or your phone is represented using
@@ -146,7 +146,6 @@ a system like this.
 ASCII is an abbreviation for American Standard Code for Information Interchange. ASCII is a table of characters for
 computers. It is binary code used by electronic equipment to handle text using the English alphabet, numbers, and
 other common symbols. 
-```
 
 <p align="center">
    Figure 8: ASCII Talbe
@@ -162,9 +161,9 @@ other common symbols.
 
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Image/Video in Binary`
 
-	Now, let’s consider images, videos and all the graphics you see on a screen. All of these images are made out of tiny
-	dots called pixels, and each pixel can be represented with numbers. When you consider that a typical image has
-	millions of these pixels, and a typical video shows 30 images per second, now, there are a lot of data here. 
+Now, let’s consider images, videos and all the graphics you see on a screen. All of these images are made out of tiny
+dots called pixels, and each pixel can be represented with numbers. When you consider that a typical image has
+millions of these pixels, and a typical video shows 30 images per second, now, there are a lot of data here. 
 
 <p align="center">
    Figure 9: Image in Binary
@@ -180,10 +179,10 @@ other common symbols.
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Audio in Binary`
 
-	Every sound is basically a series of vibrations in the ear. Vibrations can be represented graphically as a waveform.
-	Any point on this waveform can be represented by a number. And this way, any sound can be broken down into a series of
-	numbers. If you
-	want higher-quality sound, you will pick 32-bit audio over 8-bit audio. More bits means a higher range of numbers.
+Every sound is basically a series of vibrations in the ear. Vibrations can be represented graphically as a waveform.
+Any point on this waveform can be represented by a number. And this way, any sound can be broken down into a series of
+numbers. If you want higher-quality sound, you will pick 32-bit audio over 8-bit audio. More bits means a higher range of
+numbers.
 
 <p align="center">
    Figure 10: Sound in Binary
