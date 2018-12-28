@@ -16,6 +16,21 @@ address, then, is called its `IP address`. Visiting a website is really just you
 information. Your computer sends a message to the other computer’s IP address, and it also sends along its origin address so
 the other computer knows where to send its response. 
 
+You may have seen IP address, it’s just a bunch of numbers. These numbers are organized in a hierarchy. Just like a home
+address has a country, a city, a street, and a house number, an IP address has many parts.
+
+Each of these numbers is represented in bits. Traditional IP addresses are `32 bits` long, with eight bits for each part of
+the address. The earlier numbers usually identify the country and regional network of the device. Then come the subnetworks.
+And then, finally, the address of the specific device. This version of IP addressing is called `IPv4`. It was designed in
+1973, and widely adopted in the early 80s, and provides for more than `4 billion unique addresses` for devices connecting to
+the internet.
+
+But the internet has turned out to be much more popular than people imagined, and 4 billion unique addresses won’t be
+enough. We are now in the middle of a multi-year transition to a longer IP address format called `IPv6`, which uses `128 bits`
+per address, and provides over `340 undecillion unique addresses`.
+
+
+
 
 
 
