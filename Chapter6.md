@@ -7,7 +7,7 @@ In this chapter, we'll explore how is it possible for every piece of data to be 
 
 # `1. Packets`
 
-Say you want to play a song from Spotify. How’s it possible for every piece of data to be delivered to you reliably? 
+Say someone want to send an image to you. How’s it possible for every piece of data to be delivered to you reliably? 
 The way information gets transferred from one computer to another is pretty interesting. It need not follow a fixed path. In
 fact, your path may change in the midst of a computer-to-computer conversation. Information on the Internet goes from one
 computer to another in what we call a `packet of information`, and a packet travels from one place to another on the internet
@@ -51,9 +51,10 @@ like traffic managers to keep the packets moving through the network smoothly.
    Curtesy of Khan Academy
 </p>
 
+# `2. Routers`
 
 <p align="center">
-   Figure 2: Routers
+   Figure 3: Routers
 </p>
 
 <p align="center">
