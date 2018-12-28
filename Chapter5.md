@@ -44,6 +44,6 @@ per address, and provides over `340 undecillion unique addresses`
 $$ \times 10^38$$
 
 
-![equation](http://latex.codecogs.com/gif.latex?%5C%7B3.4%7D\times%7B10^{38})  
+![equation](http://latex.codecogs.com/gif.latex?%7B3.4%7D\times%7B10^{38})  
 
 
