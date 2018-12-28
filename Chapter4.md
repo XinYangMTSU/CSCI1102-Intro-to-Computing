@@ -61,15 +61,14 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
       material that usually is either glass or plastic. 
       Fiber optics send bits as light beams from one place to another using fiber optic cables. 
       Light bounces up and down the length of the cable until it is received on the other end. 
-      By the mid-1980s, fiber’s bandwidth and distance capabilities made it significantly less expensive 
-      than other communication mediums, so it has replaced them.
+      
 
 ### ![#cc0066](https://placehold.it/15/cc0066/000000?text=+) `Radio Waves`
 
-      While fiber optics seem to have many advantages over copper, wireless broadband is gaining 
+      While fiber optics cable seem to have many advantages over copper wire, wireless broadband is gaining 
       in popularity and usage.
       When it receives data, it translates it into radio waves then translate it back into bits for the user.
-
+      Radio waves can be used to send binary information by altering the frequency or amplitude of the wave.
 
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
 
