@@ -47,15 +47,15 @@ parts called `packets`.
    Curtesy of Khan Academy
 </p>
 
-Special computers on the internet, called routers, act like traffic managers to keep the packets moving through the network
-smoothly. 
 Information on the Internet goes from one computer to another in what we call a `packet of information`, and a packet travels
 from one place to another on the internet a lot like how you might get from one place to another in a car, depending on
 traffic congestion or road conditions, you might choose or be forced to take a different route to get to the same place each
 time you travel.
 
-
 # `2. Routers`
+
+Special computers on the internet, called routers, act like traffic managers to keep the packets moving through the network
+smoothly. 
 
 <p align="center">
    Figure 3: Routers
