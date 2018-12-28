@@ -129,7 +129,7 @@ agreed upon standards for how data is send around on the Internet. Computing dev
 the packets make their way to the destination where they’re reassembled, if necessary, in order. This happens billions of
 times a day, whether you and others are sending an email, visiting a webpage, doing a video chat, using a mobile app. 
 
-
+https://web.stanford.edu/class/cs101/network-3-internet.html
 
 
 
