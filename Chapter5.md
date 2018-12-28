@@ -49,3 +49,19 @@ per address, and provides over `340 undecillion unique addresses` (![equation](h
 </p>
 
 # `2. Domain Name System.`
+
+Most users never see or care about internet addresses. A system called the `Domain Name System`, or DNS, associates names,
+like www.google.com, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
+associated IP address, which is used to connect your computer to the destination on the internet. 
+
+A domain name is the text version of an IP address.
+
+<p align="center">
+   Figure 3: Domain Name Example
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dn.png" alt="Binary"/>
+</p>
+
+
