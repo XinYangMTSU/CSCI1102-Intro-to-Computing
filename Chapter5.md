@@ -69,7 +69,7 @@ servers are connected in a distributed hierarchy, and are divided into zones, sp
 domains such as .org, .com, .net, and so on.
 
 <p align="center">
-   Figure 4: DNS
+   Figure 4: How DNS work
 </p>
 
 <p align="center">
