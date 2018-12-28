@@ -50,12 +50,26 @@ parts called `packets`.
 Information on the Internet goes from one computer to another in what we call a `packet of information`, and a packet travels
 from one place to another on the internet a lot like how you might get from one place to another in a car, depending on
 traffic congestion or road conditions, you might choose or be forced to take a different route to get to the same place each
-time you travel.
+time you travel. Special computers on the internet, called routers, act like traffic managers to keep the packets moving
+through the network smoothly. 
 
 # `2. Routers`
 
-Special computers on the internet, called routers, act like traffic managers to keep the packets moving through the network
-smoothly. 
+Routers are the traffic directors of the global internet. Routers communicate with each other, and forward network packets out
+of or into a network. The router provides the internet connection your traffic goes through it.
+
+<p align="center">
+   Figure 3: How does a packet get around the internet ?
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/router2.png" alt="router"/>
+</p>
+
+<p align="center">
+   Curtesy of Khan Academy
+</p>
+
 
 <p align="center">
    Figure 3: Routers
@@ -68,6 +82,9 @@ smoothly.
 <p align="center">
    Curtesy of Khan Academy
 </p>
+
+
+
 
 
 
