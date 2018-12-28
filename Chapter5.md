@@ -9,7 +9,7 @@ with routing traffic across the Internet:
 
 # `1. IP addresses and DNS.`
 
-## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `IP addresses`
+## ![#6699ff](https://placehold.it/15/6699ff/000000?text=+) `IP addresses`
 
 Every computer on the Internet has an address that uniquely identifies it. An address on the Internet is just a number:
 141.72.251.38. The addressing system for computers on the Internet is similar to a mailing address, and it forms part of one
@@ -43,4 +43,4 @@ But the internet has turned out to be much more popular than people imagined, an
 enough. We are now in the middle of a multi-year transition to a longer IP address format called `IPv6`, which uses `128 bits`
 per address, and provides over `340 undecillion unique addresses` (![equation](http://latex.codecogs.com/gif.latex?%7B3.4%7D\times%7B10^{38})).
 
-
+## ![#ffccff](https://placehold.it/15/ffccff/000000?text=+) `DNS`
