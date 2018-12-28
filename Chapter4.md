@@ -1,6 +1,6 @@
 # Chapter 4: Computer Networking
 
-The internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn how the
+The Internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn how the
 computers all across the world communicate with each other:
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. What is Internet?`
@@ -10,14 +10,12 @@ computers all across the world communicate with each other:
 
 # `1. What is Internet?`
 
-The `Internet` is the global system of interconnected `computer networks` that use the Internet protocol suite (TCP/IP) to
+The `Internet` is the global system of interconnected `computer networks` that use the Internet Protocol (TCP/IP) to
 link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government
 networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
-
 <p align="center">
    https://en.wikipedia.org/wiki/Internet
 </p>
-
 <p align="center">
    Figure 1: Computer Network
 </p>
@@ -25,3 +23,17 @@ networks of local to global scope, linked by a broad array of electronic, wirele
 <p align="center">
   <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/cn.png" alt="Binary"/>
 </p>
+
+It was a result of another experiment called ARPANET, which stood for Advanced Research Project Agency Network. It was a
+Defense Department research project. The internet is made up of an incredibly large number of independently operated networks.
+The system is fully `distributed`. There is no central control that is deciding how packets are routed or where pieces of the
+network are built.
+
+<p align="center">
+   Figure 2: Types of Networks
+</p>
+
+<p align="center">
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/nw.png" alt="Binary"/>
+</p>
+
