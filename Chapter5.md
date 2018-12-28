@@ -20,7 +20,7 @@ the other computer knows where to send its response.
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip.png" alt="Binary"/>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ per address, and provides over `340 undecillion unique addresses` (![equation](h
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip2.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip2.png" alt="Binary"/>
 </p>
 
 # `2. Domain Name System.`
