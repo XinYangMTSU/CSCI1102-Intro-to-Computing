@@ -44,7 +44,7 @@ like traffic managers to keep the packets moving through the network smoothly.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/router.png" alt="router"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/routers.png" alt="router"/>
 </p>
 
 <p align="center">
