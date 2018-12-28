@@ -16,6 +16,18 @@ address, then, is called its `IP address`. Visiting a website is really just you
 information. Your computer sends a message to the other computer’s IP address, and it also sends along its origin address so
 the other computer knows where to send its response. 
 
+<p align="center">
+   Figure 1: IP address
+</p>
+
+<p align="center">
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip.png" alt="Binary"/>
+</p>
+
+<p align="center">
+   https://www.expressvpn.com/what-is-my-ip
+</p>
+
 You may have seen IP address, it’s just a bunch of numbers. These numbers are organized in a hierarchy. Just like a home
 address has a country, a city, a street, and a house number, an IP address has many parts.
 
