@@ -4,6 +4,7 @@ In this chapter, we'll explore how is it possible for every piece of data to be 
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `1. Packets`
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Routers`
+### ![#ccff99](https://placehold.it/15/ccff99/000000?text=+) `3. TCP`
 
 # `1. Packets`
 
