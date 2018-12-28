@@ -73,7 +73,7 @@ domains such as .org, .com, .net, and so on.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dns.png" alt="DNS"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dns.jpg" alt="DNS"/>
 </p>
 
 <p align="center">
