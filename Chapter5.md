@@ -51,17 +51,22 @@ per address, and provides over `340 undecillion unique addresses` (![equation](h
 # `2. Domain Name System.`
 
 Most users never see or care about internet addresses. A system called the `Domain Name System`, or DNS, associates names,
-like www.google.com, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
+like `www.google.com`, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
 associated IP address, which is used to connect your computer to the destination on the internet. 
 
-A domain name is the text version of an IP address.
+A domain name is the text version of an IP address. Domain names are easy for people to remember and type.
 
 <p align="center">
    Figure 3: Domain Name Example
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dn.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dn.png" alt="DNS"/>
 </p>
 
+How do we design a system for billions of devices to find any one of billions of different websites? The answer is that DNS
+servers are connected in a distributed hierarchy, and are divided into zones, splitting up responsibility for the major
+domains such as .org, .com, .net, and so on.
 
+The internet is huge, and getting bigger every day. But the Domain Name System and Internet Protocol are designed to scale, no
+matter how much the internet grows. 
