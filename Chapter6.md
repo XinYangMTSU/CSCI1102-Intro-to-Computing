@@ -98,7 +98,8 @@ receiving of all your data as packets. We can think of it as a guaranteed mail s
 
 When you request a song service from Spotiy, Spotify sends the song broken up into many packets. When your packets arrive, TCP
 does a full inventory and sends back acknowledgements of each packet received. If all packets are there, TCP signs for your
-delivery, and  you are done. 
+delivery, and  you are done. Once TCP verifies the delivery of many packets for that one song request, your song will start to
+play.
 
 <p align="center">
    Figure 4: TCP
@@ -114,7 +115,7 @@ delivery, and  you are done.
 
 If TCP finds some packets are missing, it won’t sign. Otherwise, your song would’t sound as good,
 or portions of  the song could be missing. For each missing or incomplete packet, spottily will resend them. Once TCP verifies
-the delivery of many packets for that one song request, your song will start to play. 
+the delivery of many packets for that one song request, you are done. 
 
 What’s great about the TCP and router systems is they’re scalable. They can work with eight devices or 8 billion devices. In
 fact, because of these principles of fault tolerance and redundancy, the more router we add, the more reliable the Internet
