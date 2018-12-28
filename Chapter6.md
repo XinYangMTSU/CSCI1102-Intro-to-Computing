@@ -10,7 +10,18 @@ In this chapter, we'll explore how is it possible for every piece of data to be 
 Say you want to play a song from Spotify. How’s it possible for every piece of data to be delivered to you reliably? 
 The way information gets transferred from one computer to another is pretty interesting. It need not follow a fixed path. In
 fact, your path may change in the midst of a computer-to-computer conversation. Information on the Internet goes from one
-computer to another in what we call a packet of information, and a packet travels from one place to another on the internet a
-lot like how you might get from one place to another in a car, depending on traffic congestion or road conditions, you might
+computer to another in what we call a `packet of information`, and a packet travels from one place to another on the internet
+a lot like how you might get from one place to another in a car, depending on traffic congestion or road conditions, you might
 choose or be forced to take a different route to get to the same place each time you travel.
 
+<p align="center">
+   Figure 1: Packets
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/packet.png" alt="Binary"/>
+</p>
+
+<p align="center">
+   Curtesy of Khan Academy
+</p>
