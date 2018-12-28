@@ -89,7 +89,8 @@ origin to destination.
 
 If one route is congested, individual packets may travel different routes through the internet, and they may arrive at the
 destination at slightly different times, or even out of order. Then how can the out of order packets be reassembled into the
-complete original data? 
+complete original data? We need protocol to help. `A protocol is a set of rules that governs the communications between
+computers on a network.`
 
 # `3. Tansmission Control Protocol`
 
