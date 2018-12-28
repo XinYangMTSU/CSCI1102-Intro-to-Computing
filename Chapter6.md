@@ -15,7 +15,7 @@ a lot like how you might get from one place to another in a car, depending on tr
 choose or be forced to take a different route to get to the same place each time you travel.
 
 <p align="center">
-   Figure 1: Packets
+   Figure 1: Divide bytes of image.jpg into packets.
 </p>
 
 <p align="center">
