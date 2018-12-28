@@ -68,5 +68,19 @@ How do we design a system for billions of devices to find any one of billions of
 servers are connected in a distributed hierarchy, and are divided into zones, splitting up responsibility for the major
 domains such as .org, .com, .net, and so on.
 
+<p align="center">
+   Figure 4: DNS
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dns.png" alt="DNS"/>
+</p>
+
+<p align="center">
+   https://www.expressvpn.com/what-is-my-ip
+</p>
+
+
 The internet is huge, and getting bigger every day. But the Domain Name System and Internet Protocol are designed to scale, no
 matter how much the internet grows. 
+
