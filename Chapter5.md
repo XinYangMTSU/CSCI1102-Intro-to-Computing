@@ -41,11 +41,9 @@ But the internet has turned out to be much more popular than people imagined, an
 enough. We are now in the middle of a multi-year transition to a longer IP address format called `IPv6`, which uses `128 bits`
 per address, and provides over `340 undecillion unique addresses` 
 
-$$3.4 \times 10^38$$
+$$ \times 10^38$$
 
 
-![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
-
-
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Ctimes%7B3.4%7D%7BTotalVolume%7D)  
 
 
