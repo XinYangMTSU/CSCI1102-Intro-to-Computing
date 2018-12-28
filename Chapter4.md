@@ -57,10 +57,9 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
       
 ### ![#0099ff](https://placehold.it/15/0099ff/000000?text=+) `Light`
 
-      Fiber optics refers to technology that transmits data through thin strands of a highly transparent 
+      Fiber optics cable refers to technology that transmits data through thin strands of a highly transparent 
       material that usually is either glass or plastic. 
-      You send bits as light beams from one place to another using fiber optic cables. 
-      A thread of glass engineered to reflect light. 
+      Fiber optics send bits as light beams from one place to another using fiber optic cables. 
       Light bounces up and down the length of the cable until it is received on the other end. 
       By the mid-1980s, fiber’s bandwidth and distance capabilities made it significantly less expensive 
       than other communication mediums, so it has replaced them.
