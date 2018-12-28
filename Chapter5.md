@@ -3,8 +3,8 @@
 In this chapter, we'll explore more deeply how communication between multiple computers can work over the Internet. We will
 learn “Internet Protocol” addressing system, commonly known as IP Addresses:
 
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `1. IP addresses and DNS.`
-### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Packets and Routers.`
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `1. IP addresses`
+### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Domain Name System`
 
 # `1. IP addresses.`
 
@@ -40,4 +40,12 @@ But the internet has turned out to be much more popular than people imagined, an
 enough. We are now in the middle of a multi-year transition to a longer IP address format called `IPv6`, which uses `128 bits`
 per address, and provides over `340 undecillion unique addresses` (![equation](http://latex.codecogs.com/gif.latex?%7B3.4%7D\times%7B10^{38})).
 
-# `2. DNS.`
+<p align="center">
+   Figure 2: IPv4 vs Ipv6
+</p>
+
+<p align="center">
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip2.png" alt="Binary"/>
+</p>
+
+# `2. Domain Name System.`
