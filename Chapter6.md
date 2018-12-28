@@ -79,7 +79,7 @@ origin to destination.
 </p>
 
 <p align="center">
-  <img height = "300px" width = "400px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/routers.png" alt="router"/>
+  <img height = "300px" width = "500px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/routers.png" alt="router"/>
 </p>
 
 <p align="center">
