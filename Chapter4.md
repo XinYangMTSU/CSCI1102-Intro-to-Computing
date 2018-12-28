@@ -6,8 +6,6 @@ to connect devices on the Internet.
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. What is Internet?`
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Wires, Cables and Wifi.`
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. IP addresses and DNS.`
-### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `4. Packets and Routers.`
 
 # `1. What is Internet?`
 
