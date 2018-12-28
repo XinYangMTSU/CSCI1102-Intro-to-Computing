@@ -1,7 +1,8 @@
 # Chapter 4: Internet
 
-The Internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn how the
-computers all across the world communicate with each other:
+The Internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn what is Internet
+and how bits information are transmitted over the most common mediums (copper wire, fiber-optic cable, and radio waves) used
+to connect devices on the Internet. 
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. What is Internet?`
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Wires, Cables and Wifi.`
@@ -71,9 +72,7 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
       When it receives data, it translates it into radio waves then translate it back into bits for the user.
 
 
-
-
-
+https://curriculum.code.org/csp-18/unit1/3/optional/1/
 
 
 
