@@ -70,10 +70,14 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
       When it receives data, it translates it into radio waves then translate it back into bits for the user.
       Radio waves can be used to send binary information by altering the frequency or amplitude of the wave.
 
+Each method has benefits and drawbacks which make it better suited for some situations than others. Together these different
+systems form the network of bit-sending devices we know as the `Internet`. A single bit sent from a cell phone in North
+America to someone in China probably travels over radio waves, fiber-optic cable, and copper wire while on its journey.
+
+
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
 
 https://curriculum.code.org/csp-18/
-
 
 
 
