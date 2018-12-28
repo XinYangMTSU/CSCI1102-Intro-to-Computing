@@ -37,3 +37,15 @@ network are built.
   <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/nw.png" alt="Binary"/>
 </p>
 
+The Internet is like the postal service. Instead of boxes and envelopes, the Internet ships `binary information`. Information
+is made of bits. Everything on the Internet is represented and sent around as bits. But, it’s not like we’re physically
+sending ones and zeros from one place to another.
+
+
+
+
+
+
+
+
+
