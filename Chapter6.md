@@ -70,7 +70,7 @@ of or into a network. The router provides the internet connection your traffic g
    Curtesy of Stanfor University CS101
 </p>
 
-Each router knows enough to figure the next hop, not the whole route. There is no ”center” of the internet that knows
+Each router knows enough to figure the next hop, not the whole route. There is no "center" of the internet that knows
 everything. Most data you get or send on the Internet goes in packets which take more than 10 but less than 20 hops from
 origin to destination.
 
