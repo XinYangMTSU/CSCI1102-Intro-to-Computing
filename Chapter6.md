@@ -19,11 +19,11 @@ choose or be forced to take a different route to get to the same place each time
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/packet.png" alt="Binary"/>
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/packets.png" alt="Binary"/>
 </p>
 
 <p align="center">
-   Curtesy of Khan Academy
+   Curtesy of Stanford University CS101
 </p>
 
 And just as you can transport all sorts of stuff inside a car, many kinds of digital information can be sent with IP packets,
@@ -38,6 +38,19 @@ Since it’s data on a computer, the computer sending the image can quickly brea
 parts called packets. Unlike cars or trucks, these packets don’t have drivers, and they don’t choose their route. Each packet
 has the internet address of where it came from and where it’s going. Special computers on the internet, called routers, act
 like traffic managers to keep the packets moving through the network smoothly. 
+
+<p align="center">
+   Figure 2: Packet
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/packet.png" alt="Binary"/>
+</p>
+
+<p align="center">
+   Curtesy of Khan Academy
+</p>
+
 
 <p align="center">
    Figure 2: Routers
