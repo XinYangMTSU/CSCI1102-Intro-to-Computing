@@ -25,3 +25,37 @@ choose or be forced to take a different route to get to the same place each time
 <p align="center">
    Curtesy of Khan Academy
 </p>
+
+And just as you can transport all sorts of stuff inside a car, many kinds of digital information can be sent with IP packets,
+but there are some limits. For example, you need to move a space shuttle from where it was built to where it will be launched?
+A shuttle won’t fit in one truck, so it needs to be broken down into pieces, transported using a fleet of trucks. They could
+all take different routes, and might get to the destination at different times, but once all the pieces are there, you can
+reassemble the pieces into the complete shuttle, and it’ll be ready for launch. 
+
+On the internet, the details work similarly. If you have a very large image that you want to send to a friend or upload to a
+website, that image might be made up of tens of billions of bits of ones and zeroes, too many to send along in one packet.
+Since it’s data on a computer, the computer sending the image can quickly break it into hundreds or even thousands of smaller
+parts called packets. Unlike cars or trucks, these packets don’t have drivers, and they don’t choose their route. Each packet
+has the internet address of where it came from and where it’s going. Special computers on the internet, called routers, act
+like traffic managers to keep the packets moving through the network smoothly. 
+
+<p align="center">
+   Figure 2: Routers
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/router.png" alt="router"/>
+</p>
+
+<p align="center">
+   Curtesy of Khan Academy
+</p>
+
+
+
+
+
+
+
+
+
