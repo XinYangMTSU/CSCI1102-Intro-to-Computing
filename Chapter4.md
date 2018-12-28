@@ -1,4 +1,4 @@
-# Chapter 4: Internet
+# Chapter 4: Transmitting Information in Internet
 
 The Internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn what is Internet
 and how bits information are transmitted over the most common mediums (copper wire, fiber-optic cable, and radio waves) used
