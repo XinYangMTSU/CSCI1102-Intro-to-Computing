@@ -9,6 +9,8 @@ with routing traffic across the Internet:
 
 # `1. IP addresses and DNS.`
 
+## `IP addresses`
+
 Every computer on the Internet has an address that uniquely identifies it. An address on the Internet is just a number:
 141.72.251.38. The addressing system for computers on the Internet is similar to a mailing address, and it forms part of one
 of the most important protocols used in internet communication, simply called the `Internet Protocol`, or IP. A computer’s
