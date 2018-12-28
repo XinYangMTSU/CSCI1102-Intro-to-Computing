@@ -39,7 +39,7 @@ the internet.
 
 But the internet has turned out to be much more popular than people imagined, and 4 billion unique addresses won’t be
 enough. We are now in the middle of a multi-year transition to a longer IP address format called `IPv6`, which uses `128 bits`
-per address, and provides over `340 undecillion ($3.4 \times 10^38$) unique addresses`.
+per address, and provides over `340 undecillion unique addresses` ($3.4 \times 10^38$).
 
 
 
