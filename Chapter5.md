@@ -9,7 +9,7 @@ with routing traffic across the Internet:
 
 # `1. IP addresses and DNS.`
 
-## `IP addresses`
+## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `IP addresses`
 
 Every computer on the Internet has an address that uniquely identifies it. An address on the Internet is just a number:
 141.72.251.38. The addressing system for computers on the Internet is similar to a mailing address, and it forms part of one
