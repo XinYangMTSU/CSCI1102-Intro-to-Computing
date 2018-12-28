@@ -38,8 +38,7 @@ network are built.
 </p>
 
 The Internet is like the postal service. Instead of boxes and envelopes, the Internet ships `binary information`. Information
-is made of bits. Everything on the Internet is represented and sent around as bits. But, it’s not like we’re physically
-sending ones and zeros from one place to another.
+is made of bits. Everything on the Internet is represented and sent around as bits.
 
 # `2. Wires, Cables and Wifi.`
 
@@ -47,8 +46,20 @@ How does a picture, text message, or email get sent from one place to another? I
 information. Throughout history, we’ve built many systems that can send binary information through different types of physical
 mediums such as telegraph. Today, we physically send bits by electricity, light, and radio waves. 
 
+## ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Electricity`
 
+      An Ethernet cable, but the downside is you get signal lost if your a certain distance away. The upside is that it's
+      cheap.
 
+### ![#0099ff](https://placehold.it/15/0099ff/000000?text=+) `Light`
+
+      You send bits as light beams from one place to another using fiber optic cables. A thread of glass engineered to reflect
+      light. Light bounces up and down the length of the cable until it is received on the other end. It's good because its
+      fast and has no signal lost but bad because it's expensive and hard to work with.
+
+### ![#cc0066](https://placehold.it/15/cc0066/000000?text=+) `Radio Waves`
+
+      When it receives data, it translates it into radio waves then translate it back into bits for the user.
 
 
 
