@@ -67,7 +67,7 @@ of or into a network. The router provides the internet connection your traffic g
 </p>
 
 <p align="center">
-   Curtesy of Khan Academy
+   Curtesy of Stanfor University CS101
 </p>
 
 Each router knows enough to figure the next hop, not the whole route. There is no ”center” of the internet that knows
