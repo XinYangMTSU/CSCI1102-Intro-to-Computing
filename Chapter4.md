@@ -13,9 +13,9 @@ computers all across the world communicate with each other.
 You may have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and zeros, but ones and zeros do play a big role in how computers work on the inside.
 
 <p align="center">
-   Figure 1: Binary
+   Figure 1: Computer Network
 </p>
 
 <p align="center">
-  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/binary.jpg" alt="Binary"/>
+  <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/cn.png" alt="Binary"/>
 </p>
