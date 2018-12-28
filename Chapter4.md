@@ -10,7 +10,13 @@ computers all across the world communicate with each other:
 
 # `1. What is Internet?`
 
-You may have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and zeros, but ones and zeros do play a big role in how computers work on the inside.
+The `Internet` is the global system of interconnected `computer networks` that use the Internet protocol suite (TCP/IP) to
+link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government
+networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
+
+<p align="center">
+   https://en.wikipedia.org/wiki/Internet
+</p>
 
 <p align="center">
    Figure 1: Computer Network
