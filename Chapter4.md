@@ -50,10 +50,10 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Electricity`
 
       Since the telephone’s advent over 100 years ago, the dominant way to “wire” the home involved 
-      the use of copper cabling. 
+      the use of copper wire. 
       The copper phone wire is perfectly adequate for a voice signal, which is what it was intended for. 
-      An Ethernet cable, but the downside is you get signal lost if your a certain distance away. 
-      The upside is that it's cheap.
+      Copper wire is used to transmit binary messages using electricity - a voltage on the wire means one state, and no
+      voltage means the other.
       
 ### ![#0099ff](https://placehold.it/15/0099ff/000000?text=+) `Light`
 
