@@ -79,12 +79,43 @@ origin to destination.
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/routers.png" alt="router"/>
+  <img height = "300px" width = "300px" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/routers.png" alt="router"/>
 </p>
 
 <p align="center">
    Curtesy of Khan Academy
 </p>
+
+If one route is congested, individual packets may travel different routes through the internet, and they may arrive at the
+destination at slightly different times, or even out of order. Then how this works. 
+
+As part of the Internet Protocol, every router keeps track of multiple paths for sending packets, and it chooses the cheapest
+available path for each piece of data, based on destination IP address for the packet. "Cheapest" in this case, don’t mean
+cost, but time and non-technical factors such as politics and relationships between companies. Often the best route for data
+to travel isn’t necesarily the most direct. Having options for paths makes the network fault tolerant, which means the network
+can keep sending packets, even if something goes horribly wrong. This is the basis for a key principle of the internet,
+reliability. 
+
+Now, what is you want to request some data and not everything is delivered? Say you want to send an image to another. How can
+you be 100% sure all the data will be delivered so the iamge can be donwloaded perfectly? Introducing your new best friend,
+TCP, transmission control protocol. TPC manages the sending and receiving of all your data as packets. Think of it like a
+guaranteed mail service. 
+
+When you request a song service, Spotify sends the song broken up into many packets, When your packets arrive, TCP does a full 
+inventory and sends back acknowledgements of each packet received. If all packets are there, TCP signs for your delivery, and 
+you are done. If TCP finds some packets are missing, it won’t sign. Otherwise, your song would’t sound as good, or portions of 
+the song could be missing. For each missing or incomplete packet, spottily will resend them. Once TCP verifies the delivery of
+many packets for that one song request, your song will start to play. 
+
+What’s great about the TCP and router systems is they’re scalable. They can work with eight devices or 8 billion devices. In
+fact, because of these principles of fault tolerance and redundancy, the more router we add, the more reliable the Internet
+becomes. What’s also great is we can grow and scale the Internet without interrupting serve for anybody using it. 
+
+The Internet is made of hundreds of thousands of networks and billions of computers and devices connected physically. These
+different systems that make up the Internet connect to each other, communicate with each other, and work together because of
+agreed upon standards for how data is send around on the Internet. Computing devise, or routers along the Internet, help all
+the packets make their way to the destination where they’re reassembled, if necessary, in order. This happens billions of
+times a day, whether you and others are sending an email, visiting a webpage, doing a video chat, using a mobile app. 
 
 
 
