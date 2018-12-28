@@ -28,7 +28,7 @@ the other computer knows where to send its response.
    https://www.expressvpn.com/what-is-my-ip
 </p>
 
-You may have seen IP address, it’s just a bunch of numbers. These numbers are organized in a hierarchy. Just like a home
+As you've seen, an IP address is just a bunch of numbers. These numbers are organized in a hierarchy. Just like a home
 address has a country, a city, a street, and a house number, an IP address has many parts.
 
 Each of these numbers is represented in bits. Traditional IP addresses are `32 bits` long, with eight bits for each part of
