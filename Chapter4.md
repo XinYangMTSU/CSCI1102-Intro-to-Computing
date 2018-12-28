@@ -48,20 +48,26 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Electricity`
 
-      Since the telephone’s advent over 100 years ago, the dominant way to “wire” the home involved the use of copper cabling.
+      Since the telephone’s advent over 100 years ago, the dominant way to “wire” the home involved 
+      the use of copper cabling. 
       The copper phone wire is perfectly adequate for a voice signal, which is what it was intended for. 
       An Ethernet cable, but the downside is you get signal lost if your a certain distance away. 
       The upside is that it's cheap.
       
 ### ![#0099ff](https://placehold.it/15/0099ff/000000?text=+) `Light`
 
+      Fiber optics refers to technology that transmits data through thin strands of a highly transparent material 
+      that usually is either glass or plastic. 
       You send bits as light beams from one place to another using fiber optic cables. 
       A thread of glass engineered to reflect light. 
       Light bounces up and down the length of the cable until it is received on the other end. 
-      It's good because its fast and has no signal lost but bad because it's expensive and hard to work with.
+      By the mid-1980s, fiber’s bandwidth and distance capabilities made it significantly less expensive than other
+      communication mediums, so it has replaced them.
 
 ### ![#cc0066](https://placehold.it/15/cc0066/000000?text=+) `Radio Waves`
 
+      While fiber optics seem to have many advantages over copper, wireless broadband is gaining 
+      in popularity and usage.
       When it receives data, it translates it into radio waves then translate it back into bits for the user.
 
 
