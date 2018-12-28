@@ -1,7 +1,7 @@
 # Chapter 4: Computer Networking
 
 The internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn how the
-computers all across the world communicate with each other.
+computers all across the world communicate with each other:
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. What is Internet?`
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Wires, Cables and Wifi.`
