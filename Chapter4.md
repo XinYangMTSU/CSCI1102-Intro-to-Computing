@@ -1,4 +1,4 @@
-# Chapter 4: Computer Networking
+# Chapter 4: Internet
 
 The Internet is changing how people interact and connect. But how does it work? In this chapter, you’ll learn how the
 computers all across the world communicate with each other:
@@ -40,6 +40,17 @@ network are built.
 The Internet is like the postal service. Instead of boxes and envelopes, the Internet ships `binary information`. Information
 is made of bits. Everything on the Internet is represented and sent around as bits. But, it’s not like we’re physically
 sending ones and zeros from one place to another.
+
+# `2. Wires, Cables and Wifi.`
+
+How does a picture, text message, or email get sent from one place to another? It’s the internet that was made to move
+information. Throughout history, we’ve built many systems that can send binary information through different types of physical
+mediums such as telegraph. Today, we physically send bits by electricity, light, and radio waves. 
+
+
+
+
+
 
 
 
