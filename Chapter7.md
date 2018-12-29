@@ -2,7 +2,7 @@
 
 In this chapter, we'll explore what is cybersecurity:
 
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `1. What is security? `
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `1. What is Cybersecurity? `
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Types of attackes`
 ### ![#ccff99](https://placehold.it/15/ccff99/000000?text=+) `3. Protecting yourself`
 
@@ -21,3 +21,21 @@ transportation systems.
 Whenever we go online—to shop, chat with our friends, or do anything else—we put ourselves at risk of cybercrime. Computer
 viruses can corrupt our files, hackers can steal our data, and criminals can trick us into revealing sensitive information.
 But luckily there are simple steps we can take to protect our digital lives.
+
+Cybersecurity is the protection of internnet-connected systems, including hardware, software and data, from cyberattacks.
+
+
+<p align="center">
+   Figure 1: Protect against cyberattacks
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/cs.png" alt="attacks"/>
+</p>
+
+<p align="center">
+   Curtesy of Edureka
+</p>
+
+
+https://web.stanford.edu/class/cs101/lecture15.html#/2
