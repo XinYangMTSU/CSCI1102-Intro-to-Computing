@@ -26,7 +26,7 @@ Cybersecurity is the protection of internnet-connected systems, including hardwa
 
 
 <p align="center">
-   Figure 1: Protect against cyberattacks
+   Figure 1: Protect against what?
 </p>
 
 <p align="center">
