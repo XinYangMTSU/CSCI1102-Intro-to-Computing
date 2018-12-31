@@ -37,5 +37,23 @@ Cybersecurity is the protection of internnet-connected systems, including hardwa
    Curtesy of Edureka
 </p>
 
+Secrecy, or confidentiallty, means that only authorized people should be able to access or read specific computer systems and
+data. (Data breaches, where hackers reveal people's credit card information, is an attack on secrecy)
+
+Integrity means that only authorized people should have the ability to use or modify systems and data.
+(Hackers who learn your password and send-emails masquereading as you, is an integrity attack.)
+
+And Availability means that authorized people should always have access to their systems and data.
+(Think if Denial of Service attacks, where hackers overload a website with fake requests to make it slow or unreachable for
+others. That's attacking the service's availability.)
+
+
+
+
+
+
+
+
+
 
 https://web.stanford.edu/class/cs101/lecture15.html#/2
