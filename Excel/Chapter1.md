@@ -8,4 +8,11 @@
   * One of the applications in Microsoft Office bundle
   * Can be purchased separately as part of the bundle
   
+## Key Capabilities of Excel
+
+ * Entering and Storing data
+ * Manipulating data
+ * Performing calculations (Simple and Complex)
+ * Displaying data visually
+ * Sharing data
   
