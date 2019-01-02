@@ -1,15 +1,19 @@
-# Chapter 1: Introduction to Excel
+# Chapter 1: Basics of Excel
 
-## Section 1: Introduction
+## Introduction to Excel
+## Entering Data
+## Data Formatting
 
-## What is Excel?
+## Section 1: Introduction to Excel
+
+### What is Excel?
 
   * A spreadsheet software application/program
   * Created by Microsoft Corporation
   * One of the applications in Microsoft Office bundle
   * Can be purchased separately as part of the bundle
   
-## Key Capabilities of Excel
+### Key Capabilities of Excel
 
  * Entering and Storing data
  * Manipulating data
@@ -17,7 +21,7 @@
  * Displaying data visually
  * Sharing data
 
-## Section 2: Basics of Excel
+### Basic features of Excel
 
   * Grid (Sheet of paper in a Notebook)
   * Seven default Ribbons
@@ -34,7 +38,7 @@
       WHAT IS A VERTICAL COLLECTION OF CELLS? (column)
       WHAT IS AT THE INTERSECTION OF A ROW AND A COLUMN? (cell)
 
-## Section 3: Entering Data
+## Section 2: Entering Data
 
   Entering Data: (escape key)
   Auto Fit: all the cells in the column will be fully visible
@@ -82,3 +86,6 @@
        Ctrl
        Shift + F8
        
+## Section 3: Data Formatting
+
+
