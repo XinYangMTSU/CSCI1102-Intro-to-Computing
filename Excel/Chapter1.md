@@ -19,20 +19,20 @@
 
 ## Section 2: Basics of Excel
 
-  Grid (Sheet of paper in a Notebook)
-  Seven default Ribbons
+  * Grid (Sheet of paper in a Notebook)
+  * Seven default Ribbons
 
-  Each of the small rectangles is called a Cell. 
-  Each Cell has a name, some people call the name as address.
-  There are 17 billion cells avaialbe in each worksheet.
-  Each cell is an intersection of a column and a row, it has a unique name that identifies it.
+  * Each of the small rectangles is called a Cell. 
+  * Each Cell has a name, some people call the name as address.
+  * There are 17 billion cells avaialbe in each worksheet.
+  * Each cell is an intersection of a column and a row, it has a unique name that identifies it.
 
-  Quiz 1:
+  *Quiz 1:
 
-  WHAT IS THE EQUIVALENT OF A PAPER NOTEBOOK IN EXCEL? (workbook)
-  WHAT IS THE EQUIVALENT OF A PAGE IN EXCEL? (worksheet)
-  WHAT IS A VERTICAL COLLECTION OF CELLS? (column)
-  WHAT IS AT THE INTERSECTION OF A ROW AND A COLUMN? (cell)
+     WHAT IS THE EQUIVALENT OF A PAPER NOTEBOOK IN EXCEL? (workbook)
+     WHAT IS THE EQUIVALENT OF A PAGE IN EXCEL? (worksheet)
+     WHAT IS A VERTICAL COLLECTION OF CELLS? (column)
+     WHAT IS AT THE INTERSECTION OF A ROW AND A COLUMN? (cell)
 
 ## Section 3: Entering Data
 
