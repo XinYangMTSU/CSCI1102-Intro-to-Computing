@@ -47,8 +47,38 @@
     Keep the same cell: contrl + enter
     
   Auto complete:  (backspace key to remove auto complete)
-     Autocomplete will be very very handy in data entry in most locations 
+       Autocomplete will be very very handy in data entry in most locations 
     
+  Entering numbers: 
+       Numbers are aligned to right
+       Text values are aligned to left
     
-    
-    
+  Delete contents:
+       press the cell and click delete key
+       Undo --> ctrl + z
+
+  Navigating edges: (navigating to the edges of the data using keyboard shortcuts)
+   
+       Mac: 
+          Command(Ctr) + Up arrow
+          Command + Down arrow
+          Command + Right arrow
+          Command + Left arrow
+          Command + End (not find in mac)
+       
+ Selecting Multiple Cells:
+      
+       Range: a collection of cells
+       Shift + Arrow Key
+       Command + Shift + Arrow Key
+       Mouse + Click and Drag
+       Mouse + Shift Key
+       
+ Selecting Rows and Columns:    
+     
+  
+ Selecting Non-contiguous cells:
+ 
+       Ctrl
+       Shift + F8
+       
