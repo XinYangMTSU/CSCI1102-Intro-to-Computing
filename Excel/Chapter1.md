@@ -27,7 +27,7 @@
   * There are 17 billion cells avaialbe in each worksheet.
   * Each cell is an intersection of a column and a row, it has a unique name that identifies it.
 
-  *Quiz 1:
+  * Quiz 1:
 
      WHAT IS THE EQUIVALENT OF A PAPER NOTEBOOK IN EXCEL? (workbook)
      WHAT IS THE EQUIVALENT OF A PAGE IN EXCEL? (worksheet)
