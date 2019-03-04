@@ -93,8 +93,8 @@ instructions and data. 
   * Floppy Drive
   * CD
 
-A computer's `Main Memory` holds data only temporarily, at the time the computer is executing a program. `Secondary storage`
-holds permanent or semi-permanent data on some external magnetic or optical medium. 
+A computer's `Main Memory` holds data only temporarily, at the time the computer is executing a program. 
+A computer's `Secondary storage` holds permanent data on some external magnetic or optical medium. 
 
 3.Processor/CPU:
 ----------------
