@@ -110,6 +110,8 @@ so. The control unit must communicate with both the arithmetic/logic unit and me
 The arithmetic/logic unit (ALU) executes all arithmetic and logical operations. ALU can perform four kinds of arithmetic
 operations: addition, subtraction, multiplication, and division.
 
+The CPU is a silicon chip that is the ‘brain’ of a computer system. It executes program instructions and data and controls all
+the devices within the machine.
 
 4.Output Device:
 ----------------
@@ -128,9 +130,6 @@ All computers do the same 4 things. Each of these things is done by different pa
 that take input from the outside world and convert it into binary information. There’s the memory to store this information.
 There’s a central processing unit, or CPU, where all the calculations are done. And finally, there are output devices that
 take information and convert it into the physical output.
-
-The CPU is a silicon chip that is the ‘brain’ of a computer system. It executes program instructions and data and controls all
-the devices within the machine.
 
 <!--
 <p align="center">
