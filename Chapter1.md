@@ -79,20 +79,28 @@ output.
 
 2.Storage/Memory:
 -----------------
-Computers use two types of storage: `Primary storage` and `Secondary storage`. `Memory` is also known as primary storage,
-primary memory, main storage, main memory, and `RAM (Random Access Memory)`; all these terms are used interchangeably by
-people in computer circles. The CPU interacts closely with primary storage, or main memory, referring to it for both
-instructions and data. 
+Computers use two types of storage: `Primary storage` and `Secondary storage`. 
 
-A computer's `Main Memory (RAM)` holds data only temporarily, at the time the computer is executing a program. `RAM` is
-`volatile`. That is, when power to the chips, or system, is lost or turned off the contents of RAM memory are lost.
+The CPU interacts closely with `Primary storage`, referring to it for both instructions and data. 
 
-A `ROM` chip is used primarily in the start up process of a computer. `ROM` is necessary because, when you turn on the
-computer, the CPU receives electrical power and is ready to begin executing instructions, but because the computer was just
-turned on, RAM is empty and does not have any instructions for the CPU to execute. This is where `ROM` comes into play.
+`RAM (Random Access Memory)` is the internal memory of the CPU for storing data, program, and program result. It is a
+read/write memory which stores data until the machine is working. As soon as the machine is switched off, data is erased.
+
+`Memory` is also known as `Main Memory`, and `RAM (Random Access Memory)`; all these terms are used interchangeably by people
+in computer circles. A computer's `Main Memory (RAM)` holds data only temporarily, at the time the computer is executing a
+program. `RAM` is `volatile`. That is, when power to the chips, or system, is lost or turned off the contents of RAM memory
+are lost.
+
+A `ROM (Read-only Memory)` chip is used primarily in the start up process of a computer. The memory from which we can only
+read but cannot write on it. This type of memory is `non-volatile`. The information is stored permanently in such memories
+during manufacture. A ROM stores such instructions that are required to start a computer.
+
+`ROM` is necessary because, when you turn on the computer, the CPU receives electrical power and is ready to begin executing
+instructions, but because the computer was just turned on, RAM is empty and does not have any instructions for the CPU to
+execute. This is where `ROM` comes into play.
 
 * Primary Memory
-  * RAM (Main Memory)
+  * RAM (Random Access Memory)
   * ROM (Read only Memory)
 
 * Secondary Memory
@@ -100,7 +108,7 @@ turned on, RAM is empty and does not have any instructions for the CPU to execut
   * Floppy Drive
   * CD
 
-A computer's `Secondary storage` holds permanent data on some external magnetic or optical medium.
+A computer's `Secondary storage` holds `permanent` data on some external magnetic or optical medium.
 
 3.Processor/CPU:
 ----------------
@@ -173,8 +181,8 @@ the machine cycle. -->
 
 ## Motherboard
 
-`Motherboard` is the main circuit board in the computer that houses the chips that control the processing functions. Chips may
-be soldered on the motherboard or plugged into the board.
+`Motherboard` is the main circuit board in the computer that houses the chips/cards that control the processing functions.
+Chips may be soldered on the motherboard or plugged into the board.
 
 <p align="center">
    Figure 5: Inside The Computer
@@ -202,10 +210,10 @@ browser!
 * 2. Press a key on your keyboard
 
 When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number
-is sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter
+is sent as machine codes into the computer. Starting from this number, the CPU calculates how to display the letter
 B pixel-by-pixel. The CPU requests step-by-step instructions from memory, which tell it how to draw the letter B. The CPU runs
-these instructions and stores the results as pixels in memory. Finally, this pixel information is sent in binary to the
-screen. The screen is an output device, which converts the binary signals into the tiny lights and colors that make up what 
+these instructions and stores the results as pixels in memory. Finally, this pixel information is sent to the
+screen. The screen is an output device, which converts the signals into the tiny lights and colors that make up what 
 you see. This all happens so quickly it feels instantaneous, but to display each letter, a computer runs thousands of
 instructions, starting from the moment your finger presses the keyboard.
 
