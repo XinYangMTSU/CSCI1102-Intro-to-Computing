@@ -167,6 +167,9 @@ The control unit eventually directs memory to release the result to an output de
 combination of instruction time and execution time is called the machine cycle. Figure 4 shows an instruction going through
 the machine cycle. -->
 
+`Motherboard` is the main circuit board in the computer that houses the chips that control the processing functions. Chips may
+be soldered on the motherboard or plugged into the board.
+
 <p align="center">
    Figure 5: Inside The Computer
 </p>
