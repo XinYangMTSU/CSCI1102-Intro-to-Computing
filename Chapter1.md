@@ -132,7 +132,7 @@ take information and convert it into the physical output.
 The CPU is a silicon chip that is the ‘brain’ of a computer system. It executes program instructions and data and controls all
 the devices within the machine.
 
-<
+<!--
 <p align="center">
    Figure 4: A Machine Cycle
 </p>
@@ -164,7 +164,7 @@ The arithmetic/logic unit stores the result of this operation in memory or in a 
 
 The control unit eventually directs memory to release the result to an output device or a secondary storage device. The
 combination of instruction time and execution time is called the machine cycle. Figure 4 shows an instruction going through
-the machine cycle. >
+the machine cycle. -->
 
 <p align="center">
    Figure 5: Inside The Computer
