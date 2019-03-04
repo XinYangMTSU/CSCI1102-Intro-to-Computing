@@ -181,11 +181,20 @@ be soldered on the motherboard or plugged into the board.
   https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm
 </p>
 
-When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number is
-sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter B
-pixel-by-pixel. The CPU requests step-by-step instructions from memory, which tell it how to draw the letter B. The CPU runs
+## Examples
+
+* 1. 
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/software-program-run.png" alt="common"/>
+  https://web.stanford.edu/class/cs101/lecture02.html#/21
+</p>
+
+* 2. When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number
+is sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter
+B pixel-by-pixel. The CPU requests step-by-step instructions from memory, which tell it how to draw the letter B. The CPU runs
 these instructions and stores the results as pixels in memory. Finally, this pixel information is sent in binary to the
-screen. The screen is an output device, which converts the binary signals into the tiny lights and colors that make up what
+screen. The screen is an output device, which converts the binary signals into the tiny lights and colors that make up what 
 you see. This all happens so quickly it feels instantaneous, but to display each letter, a computer runs thousands of
 instructions, starting from the moment your finger presses the keyboard.
 
