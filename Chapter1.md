@@ -8,7 +8,7 @@ In this chapter, you’ll learn how computers work:
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Different parts of the computer that input, output, store and process all information.`
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. How computers do everything from simple math to simulating the entire virtual worlds.`
+<!-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. How computers do everything from simple math to simulating the entire virtual worlds.` -->
 
 ## What makes a computer a computer?
 
@@ -166,6 +166,8 @@ The arithmetic/logic unit stores the result of this operation in memory or in a 
 The control unit eventually directs memory to release the result to an output device or a secondary storage device. The
 combination of instruction time and execution time is called the machine cycle. Figure 4 shows an instruction going through
 the machine cycle. -->
+
+## Motherboard
 
 `Motherboard` is the main circuit board in the computer that houses the chips that control the processing functions. Chips may
 be soldered on the motherboard or plugged into the board.
