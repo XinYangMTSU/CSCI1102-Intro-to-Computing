@@ -60,12 +60,12 @@ each other, play games, control robots, and do any fancy stuff that you could pr
 
 Modern computers look nothing like those old machines, but they still do the same four things.
 
-First, we’ll talk about input. You can tell a computer what to do with the keyboard. You can tell them what to do with the
-mouse, the microphone, the camera. And now if you’re wearing a computer on your wrist, it might listen to your heartbeat. And
-a touchscreen can actually sense your finger and it takes that as input on what it’s doing.
 
 1.Input Device:
 ---------------
+First, we’ll talk about input. You can tell a computer what to do with the keyboard. You can tell them what to do with the
+mouse, the microphone, the camera. And now if you’re wearing a computer on your wrist, it might listen to your heartbeat. And
+a touchscreen can actually sense your finger and it takes that as input on what it’s doing.
 
 * Keyboard
 * Mouse
