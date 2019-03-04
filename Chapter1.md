@@ -183,18 +183,21 @@ be soldered on the motherboard or plugged into the board.
 
 ## Examples
 
-* 1. Staring a program
+* 1. Launching an application (firefox browser)
 
-Let's say you want to launch the application of firefox browser. All the instuctions of this application are stored in
-hard drive. When you double click the icon of firefox, all the instructions are copied into RAM. Then CPU start to fetch and
-execute the insctrutions in RAM.
+Let's say you want to launch the application of firefox browser. Initially, All the instuctions of this application are stored
+in hard drive. When you double click the icon of firefox, all the instructions are copied from HD into RAM. Then the CPU
+starts to fetch and execute the insctrutions of firefox browser from RAM. Now, you can surf the internet through the firefox
+browser!
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/software-program-run.png" alt="common"/>
   https://web.stanford.edu/class/cs101/lecture02.html#/21
 </p>
 
-* 2. When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number
+* 2. Press a key on your keyboard
+
+When you press a key on your keyboard, let’s say the letter B, the keyboard converts the letter to a number. That number
 is sent as binary. ones and zeros, into the computer. Starting from this number, the CPU calculates how to display the letter
 B pixel-by-pixel. The CPU requests step-by-step instructions from memory, which tell it how to draw the letter B. The CPU runs
 these instructions and stores the results as pixels in memory. Finally, this pixel information is sent in binary to the
