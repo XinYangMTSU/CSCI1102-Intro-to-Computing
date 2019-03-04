@@ -84,6 +84,13 @@ primary memory, main storage, main memory, and `RAM (Random Access Memory)`; all
 people in computer circles. The CPU interacts closely with primary storage, or main memory, referring to it for both
 instructions and data. 
 
+A computer's `Main Memory (RAM)` holds data only temporarily, at the time the computer is executing a program. `RAM` is
+`volatile`. That is, when power to the chips, or system, is lost or turned off the contents of RAM memory are lost.
+
+A `ROM` chip is used primarily in the start up process of a computer. `ROM` is necessary because, when you turn on the
+computer, the CPU receives electrical power and is ready to begin executing instructions, but because the computer was just
+turned on, RAM is empty and does not have any instructions for the CPU to execute. This is where `ROM` comes into play.
+
 * Primary Memory
   * RAM (Main Memory)
   * ROM (Read only Memory)
@@ -93,10 +100,7 @@ instructions and data. 
   * Floppy Drive
   * CD
 
-A computer's `Main Memory` holds data only temporarily, at the time the computer is executing a program. 
-A computer's `Secondary storage` holds permanent data on some external magnetic or optical medium. 
-A `ROM` chip is used primarily in the start up process of a computer, whereas a `RAM` chip is used in the normal operations of
-a computer once the operating system has been loaded.
+A computer's `Secondary storage` holds permanent data on some external magnetic or optical medium.
 
 3.Processor/CPU:
 ----------------
