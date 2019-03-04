@@ -72,14 +72,17 @@ First, we’ll talk about input. You can tell a computer what to do with the `ke
 * Web Cam
 * Touchscreen
 
-
-2.Storage/Memory:
------------------
-
 All these different inputs give the computer information, which is then stored in memory. A computer’s processor takes
 information for memory it manipulates it or changes it using the algorithm, which is just a series of commands, and then it
 sends the process information back to be stored in memory again. This continues until the processed information is ready to be
 output.
+
+2.Storage/Memory:
+-----------------
+Computers use two types of storage: `Primary storage` and `Secondary storage`. `Memory` is also known as primary storage,
+primary memory, main storage, main memory, and `RAM` (Random Access Memory); all these terms are used interchangeably by
+people in computer circles. The CPU interacts closely with primary storage, or main memory, referring to it for both
+instructions and data. 
 
 * Primary Memory
   * RAM (Main Memory)
@@ -90,14 +93,8 @@ output.
   * Floppy Drive
   * CD
 
-Computers use two types of storage: Primary storage and secondary storage. Memory is also known as primary storage, primary
-memory, main storage, internal storage, main memory, and RAM (Random Access Memory); all these terms are used interchangeably
-by people in computer circles. The CPU interacts closely with primary storage, or main memory, referring to it for both
-instructions and data. 
-
-A computer's memory holds data only temporarily, at the time the computer is executing a program. Secondary storage holds
-permanent or semi-permanent data on some external magnetic or optical medium. 
-
+A computer's `Main Memory` holds data only temporarily, at the time the computer is executing a program. `Secondary storage`
+holds permanent or semi-permanent data on some external magnetic or optical medium. 
 
 3.Processor/CPU:
 ----------------
