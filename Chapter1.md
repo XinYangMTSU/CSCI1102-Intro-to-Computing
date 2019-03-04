@@ -80,13 +80,13 @@ output.
 2.Storage/Memory:
 -----------------
 Computers use two types of storage: `Primary storage` and `Secondary storage`. `Memory` is also known as primary storage,
-primary memory, main storage, main memory, and `RAM` (Random Access Memory); all these terms are used interchangeably by
+primary memory, main storage, main memory, and `RAM (Random Access Memory)`; all these terms are used interchangeably by
 people in computer circles. The CPU interacts closely with primary storage, or main memory, referring to it for both
 instructions and data. 
 
 * Primary Memory
   * RAM (Main Memory)
-  * ROM
+  * ROM (Read only Memory)
 
 * Secondary Memory
   * Hard Disk
@@ -95,6 +95,8 @@ instructions and data. 
 
 A computer's `Main Memory` holds data only temporarily, at the time the computer is executing a program. 
 A computer's `Secondary storage` holds permanent data on some external magnetic or optical medium. 
+A `ROM` chip is used primarily in the start up process of a computer, whereas a `RAM` chip is used in the normal operations of
+a computer once the operating system has been loaded.
 
 3.Processor/CPU:
 ----------------
