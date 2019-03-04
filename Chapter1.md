@@ -100,8 +100,8 @@ A computer's `Secondary storage` holds permanent data on some external magnetic 
 ----------------
 
 * CPU (Central Processing Unit)
- * Control Unit
- * Arithmetic/Logic Unit
+   * Control Unit
+   * Arithmetic/Logic Unit
 
 The control unit of the CPU directs the entire computer system to carry out or execute, stored program instructions. Like an
 orchestra leader, the control unit does not execute program instructions; rather, it directs other parts of the system to do
