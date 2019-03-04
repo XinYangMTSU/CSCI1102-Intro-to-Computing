@@ -88,8 +88,8 @@ read/write memory which stores data until the machine is working. As soon as the
 
 `Memory` is also known as `Main Memory`, and `RAM (Random Access Memory)`; all these terms are used interchangeably by people
 in computer circles. A computer's `Main Memory (RAM)` holds data only temporarily, at the time the computer is executing a
-program. `RAM` is `volatile`. That is, when power to the chips, or system, is lost or turned off the contents of RAM memory
-are lost.
+program. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `RAM` is `volatile`. That is, when power to the chips, or
+system, is lost or turned off the contents of RAM memory are lost.
 
 A `ROM (Read-only Memory)` chip is used primarily in the start up process of a computer. The memory from which we can only
 read but cannot write on it. This type of memory is `non-volatile`. The information is stored permanently in such memories
