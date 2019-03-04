@@ -185,6 +185,10 @@ be soldered on the motherboard or plugged into the board.
 
 * 1. Staring a program
 
+Let's say you want to launch the application of firefox browser. All the instuctions of this application are stored in
+hard drive. When you double click the icon of firefox, all the instructions are copied into RAM. Then CPU start to fetch and
+execute the insctrutions in RAM.
+
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/software-program-run.png" alt="common"/>
   https://web.stanford.edu/class/cs101/lecture02.html#/21
