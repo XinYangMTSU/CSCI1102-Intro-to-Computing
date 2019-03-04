@@ -58,7 +58,7 @@ the University of Pennsylvania
 Computers started out as basic calculators, which were only manipulating numbers back then. But now we can use them to talk to
 each other, play games, control robots, and do any fancy stuff that you could probably imagine.
 
-Modern computers look nothing like those old machines, but they still do the same four things.
+`Modern computers look nothing like those old machines, but they still do the same four things.`
 
 
 1.Input Device:
