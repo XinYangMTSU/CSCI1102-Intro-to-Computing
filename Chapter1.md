@@ -183,7 +183,7 @@ be soldered on the motherboard or plugged into the board.
 
 ## Examples
 
-* 1. 
+* 1. Staring a program
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/software-program-run.png" alt="common"/>
