@@ -8,9 +8,9 @@ In this chapter, you’ll learn how information is represented inside the comput
 
 # `1. Binary System`
 
-You may have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and
-zeros, but ones and zeros do play a big role in how computers work on the inside. `Binary` is a `base 2` number system
-invented by Gottfried Leibniz that is made up of only two numbers: `0` and `1`.
+`Binary` is a `base 2` number system invented by Gottfried Leibniz that is made up of only two numbers: `0` and `1`. You may
+have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and zeros,
+but ones and zeros do play a big role in how computers work on the inside. 
 
 <p align="center">
    Figure 1: Binary
