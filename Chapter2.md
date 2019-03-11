@@ -54,7 +54,7 @@ to understand that, we need to learn about something called about the `binary` n
 
 In the decimal number system, we have 10 digits from zero to nine. And that’s how we’ve all learned to count. 
 
-# How do we count in Decimal?
+# How do we count in Decimal (base 10)?
 
 * `0`   Start at 0
 * ...	  Count 1,2,3,4,5,6,7,8, and then...
