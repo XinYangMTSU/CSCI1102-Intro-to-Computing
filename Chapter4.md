@@ -52,6 +52,9 @@ mediums such as telegraph. Today, we physically send bits by electricity, light,
       The copper phone wire is perfectly adequate for a voice signal, which is what it was intended for. 
       Copper wire is used to transmit binary messages using electricity - a voltage on the wire means 
       one state, and no voltage means the other.
+      ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Copper Wire` 
+      Bits of nformation are sent using `electricity`
+      
       
 ### ![#0099ff](https://placehold.it/15/0099ff/000000?text=+) `Light`
 
@@ -76,8 +79,7 @@ America to someone in China probably travels over radio waves, fiber-optic cable
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Internet`
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Copper Wire` 
-Bits of nformation are sent using `electricity`
+
 <hr>
 
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Fiber Optic Cable`     
