@@ -82,6 +82,7 @@ Bits of nformation are sent using `electricity`
 
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Fiber Optic Cable`     
 Bits of information are sent with `light`
+<hr>
 
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Wifi`     
 Bits of information are sent using `radio waves` 
