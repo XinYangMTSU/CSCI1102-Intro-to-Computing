@@ -78,9 +78,9 @@ America to someone in China probably travels over radio waves, fiber-optic cable
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Copper Wire` 
 Bits of nformation are sent using `electricity`
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Fiber Optic Cable`     
-      Bits of information are sent with `light`
+Bits of information are sent with `light`
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Wifi`     
-      Bits of information are sent using `radio waves` 
+Bits of information are sent using `radio waves` 
 
 
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
