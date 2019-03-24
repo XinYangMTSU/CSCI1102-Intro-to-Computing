@@ -64,7 +64,10 @@ Bits of nformation are sent using `electricity`
       material that usually is either glass or plastic. 
       Fiber optics send bits as light beams from one place to another using fiber optic cables. 
       Light bounces up and down the length of the cable until it is received on the other end. 
-      
+ 
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Fiber Optic Cable`     
+Bits of information are sent with `light`
+<hr> 
 
 ### ![#cc0066](https://placehold.it/15/cc0066/000000?text=+) `Radio Waves`
 
@@ -73,23 +76,13 @@ Bits of nformation are sent using `electricity`
       When it receives data, it translates it into radio waves then translate it back into bits for the user.
       Radio waves can be used to send binary information by altering the frequency or amplitude of the wave.
 
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Wifi`     
+Bits of information are sent using `radio waves` 
+<hr> 
+
 Each method has benefits and drawbacks which make it better suited for some situations than others. Together these different
 systems form the network of bit-sending devices we know as the `Internet`. A single bit sent from a cell phone in North
 America to someone in China probably travels over radio waves, fiber-optic cable, and copper wire while on its journey.
-
-# `Key Words`
-
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Internet`
-
-
-<hr>
-
-### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Fiber Optic Cable`     
-Bits of information are sent with `light`
-<hr>
-
-### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Wifi`     
-Bits of information are sent using `radio waves` 
 
 
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
