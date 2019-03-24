@@ -72,6 +72,12 @@ Each method has benefits and drawbacks which make it better suited for some situ
 systems form the network of bit-sending devices we know as the `Internet`. A single bit sent from a cell phone in North
 America to someone in China probably travels over radio waves, fiber-optic cable, and copper wire while on its journey.
 
+# `Key Words`
+
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Internet`
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Wires, Cables and Wifi.`
+
+
 
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
 
