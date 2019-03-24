@@ -76,7 +76,8 @@ America to someone in China probably travels over radio waves, fiber-optic cable
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Internet`
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Wires, Cables and Wifi.`
-
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Fiber Optic Cable`     
+      Used to send bits of information with light
 
 
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
