@@ -87,6 +87,8 @@ America to someone in China probably travels over radio waves, fiber-optic cable
 
 # `3. Bandwidth`
 
+The maximum transmission capacity of a device given a period of time.
+
 https://curriculum.code.org/csp-18/unit1/3/optional/1/
 
 https://curriculum.code.org/csp-18/
