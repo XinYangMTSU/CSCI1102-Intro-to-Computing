@@ -3,8 +3,9 @@
 In this chapter, we'll explore more deeply how communication between multiple computers can work over the Internet. We will
 learn “Internet Protocol” addressing system, commonly known as IP Addresses:
 
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `1. IP addresses`
-### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `2. Domain Name System`
+### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) `1. Protocol`
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. IP addresses`
+### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Domain Name System`
 
 # `1. IP addresses.`
 
