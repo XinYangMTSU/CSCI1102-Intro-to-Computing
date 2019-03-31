@@ -7,7 +7,15 @@ learn “Internet Protocol” addressing system, commonly known as IP Addresses:
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. IP addresses`
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Domain Name System`
 
-# `1. IP addresses.`
+# `1. Protocol.`
+
+The Internet is a network of networks. It links billions of devices together all around the globe. So maybe you're connected
+with a laptop or a phone through wifi, then that wifi connection connects to an internet service provider (ISP), and that ISP
+connects you to billions and billions of devices around the world through hundreds of thousands of networks that are all
+interconnected. 
+
+
+# `2. IP addresses.`
 
 Every computer on the Internet has an address that uniquely identifies it. An address on the Internet is just a number:
 141.72.251.38. The addressing system for computers on the Internet is similar to a mailing address, and it forms part of one
@@ -49,7 +57,7 @@ per address, and provides over `340 undecillion unique addresses` (![equation](h
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip2.png" alt="Binary"/>
 </p>
 
-# `2. Domain Name System.`
+# `3. Domain Name System.`
 
 Most users never see or care about internet addresses. A system called the `Domain Name System`, or DNS, associates names,
 like `www.google.com`, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
