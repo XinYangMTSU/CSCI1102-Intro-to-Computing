@@ -14,6 +14,8 @@ with a laptop or a phone through wifi, then that wifi connection connects to an 
 connects you to billions and billions of devices around the world through hundreds of thousands of networks that are all
 interconnected. 
 
+Internet is a design philosophy and an architecture expressed in a set of protocols. A `protocol` is a well-known set of rules
+and standards used to communicate between machines.
 
 # `2. IP addresses.`
 
