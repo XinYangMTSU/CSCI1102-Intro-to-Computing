@@ -67,7 +67,9 @@ Most users never see or care about internet addresses. A system called the `Doma
 like `www.google.com`, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
 associated IP address, which is used to connect your computer to the destination on the internet. 
 
-A domain name is the text version of an IP address. Domain names are easy for people to remember and type.
+A domain name is the text version of an IP address. Domain names are easy for people to remember and type. A `domain name
+system` is maintained by a `distributed` database system. It is a collection of multiple, logically interrelated databases
+distributed over a computer network.
 
 <p align="center">
    Figure 3: Domain Name Example
