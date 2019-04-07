@@ -4,7 +4,7 @@ In this chapter, we'll explore Artificial Intelligence. You will understand the 
 
 ### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) `1. Artificial Intelligence`
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. Speech Recognition`
-### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Natural Lanuage Processing`
+### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Natural Language Processing`
 ### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) `4. Computer Vision`
 ### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) `5. Robotics`
 
@@ -17,11 +17,11 @@ about artificial intelligence is in the context of a human.
 
 #### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) Human can speak and listen to communicate through language. In AI, this is the field of `speech recognition`. Much of speech recognition is statistically based. Hence it's called statistically learning.
 
-#### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Human can write and read text in a lanuage. In AI, this is the field of `Natural Lanuage Processing (NLP)`. 
+#### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Human can write and read text in a lanuage. In AI, this is the field of `Natural Language Processing (NLP)`. 
 
 #### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) Human can see with their eyes and process what they see. In AI, this is the field of `Computer Vision`.
 
-#### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) Human can understand their environment and move around fluidly. In AI, this is the field of `robotics`.
+#### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) Human can understand their environment and move around fluidly. In AI, this is the field of `Robotics`.
 
 #### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) Human have the ability to see patterns such as grouping of like objects. This is the field of pattern regocnition. Machines are even better at pattern recognition because they can use more data dimensions of data. In AI, this is the field of `machine learning`.
 
