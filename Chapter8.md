@@ -29,6 +29,7 @@ about artificial intelligence is in the context of a human.
 
 
 
+There are two ways AI works, one is symbolic based, and another is data based. For the data based side called machine learning. We need to feed the machine lots of data before it can learn.
 
 # `2. Machine Learning.`
 
@@ -52,61 +53,4 @@ send its response.
    https://www.expressvpn.com/what-is-my-ip
 </p>
 
-As you've seen, an IP address is just a bunch of numbers. These numbers are organized in a hierarchy. Just like a home
-address has a country, a city, a street, and a house number, an IP address has many parts.
-
-Each of these numbers is represented in bits. Traditional IP addresses are `32 bits` long, with eight bits for each part of
-the address. The earlier numbers usually identify the country and regional network of the device. Then come the subnetworks.
-And then, finally, the address of the specific device. This version of IP addressing is called `IPv4`. It was designed in
-1973, and widely adopted in the early 80s, and provides for more than `4 billion unique addresses` for devices connecting to
-the internet.
-
-But the internet has turned out to be much more popular than people imagined, and 4 billion unique addresses won’t be
-enough. We are now in the middle of a multi-year transition to a longer IP address format called `IPv6`, which uses `128 bits`
-per address, and provides over `340 undecillion unique addresses` (![equation](http://latex.codecogs.com/gif.latex?%7B3.4%7D\times%7B10^{38})).
-
-<p align="center">
-   Figure 2: IPv4 vs Ipv6
-</p>
-
-<p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip2.png" alt="Binary"/>
-</p>
-
-# `3. Deep Learning.`
-
-Most users never see or care about internet addresses. A system called the `Domain Name System`, or DNS, associates names,
-like `www.google.com`, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
-associated IP address, which is used to connect your computer to the destination on the internet. 
-
-A domain name is the text version of an IP address. Domain names are easy for people to remember and type. A `domain name
-system` is maintained by a `distributed` database system. It is a collection of multiple, logically interrelated databases
-distributed over a computer network.
-
-<p align="center">
-   Figure 3: Domain Name Example
-</p>
-
-<p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dn.png" alt="DNS"/>
-</p>
-
-How do we design a system for billions of devices to find any one of billions of different websites? The answer is that DNS
-servers are connected in a distributed hierarchy, and are divided into zones, splitting up responsibility for the major
-domains such as .org, .com, .net, and so on.
-
-<p align="center">
-   Figure 4: How DNS work
-</p>
-
-<p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/dns.jpg" alt="DNS"/>
-</p>
-
-<p align="center">
-   https://www.expressvpn.com/what-is-my-ip
-</p>
-
-
-# `4. Computer Vision.`
 
