@@ -42,8 +42,9 @@ There are two ways AI works, one is symbolic based, and another is data based. F
 2. Cooking robot: Moley Robotics has created the world's first fully-automated and intelligent cooking robot.
 3. Self-drive cars
 4. Google Maps: faster route selection
-5. Auto friend tagging: face detection and recognition
-6. Ads Recommendation: recommands based on your search history
+5. IBM Watson healthcare: solve some of the world's most health challenges through AI.
+6. Facebook Auto friend tagging: face detection and recognition
+7. Ads Recommendation: recommands based on your search history
 
 
 <p align="center">
