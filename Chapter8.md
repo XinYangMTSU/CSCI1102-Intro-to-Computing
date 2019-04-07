@@ -27,7 +27,13 @@ about artificial intelligence is in the context of a human.
 
 #### ![#66ccff](https://placehold.it/15/ffff00/000000?text=+) The human brain is a network of neurons and we use theset to learn things if we can replicate the structure and the function of the human brain we might be able to get cognitive capabilities in machines. In AI, this is the field of `neural networks`. If these neural networks are more complex and deeeper, and we use those to learn complex things that is the field of `deep learning`.
 
+<p align="center">
+   Figure 1: Introduction to Artificial Intelligence
+</p>
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/AI.png" alt="AI"/>
+</p>
 
 There are two ways AI works, one is symbolic based, and another is data based. For the data based side called machine learning. We need to feed the machine lots of data before it can learn.
 
