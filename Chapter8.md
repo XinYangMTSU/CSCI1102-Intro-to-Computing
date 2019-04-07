@@ -46,8 +46,9 @@ There are two ways AI works, one is symbolic based, and another is data based. F
 6. Facebook Auto friend tagging: face detection and recognition
 7. Amazon/Netflix Ads Recommendation: recommands based on your search history
 
-
+<!-->
 <p align="center">
    https://robots.ieee.org/learn/types-of-robots/
 </p>
+<-->
 
