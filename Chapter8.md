@@ -37,9 +37,9 @@ about artificial intelligence is in the context of a human.
 
 There are two ways AI works, one is symbolic based, and another is data based. For the data based side called machine learning. We need to feed the machine lots of data before it can learn.
 
-# `2. Machine Learning.`
+# `2. AI Applications`
 
-# `5. Robotic Examples.`
+## `Robotic Examples.`
 
 <p align="center">
    https://robots.ieee.org/learn/types-of-robots/
