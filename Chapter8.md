@@ -1,13 +1,13 @@
 # Chapter 8: Introduction to Artificial Intelligence
 
-In this chapter, we'll explore the concept of Artificial Intelligence.
+In this chapter, we'll explore Artificial Intelligence. You will understand the following concepts after this chapter.
 
 ### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) `1. Artificial Intelligence`
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. Machine Learning`
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Deep Learning`
 ### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) `4. Computer Vision`
 
-# `1. Protocol.`
+# `1. Artificial Intelligence.`
 
 The Internet is a network of networks. It links billions of devices together all around the globe. So maybe you're connected
 with a laptop or a phone through wifi, then that wifi connection connects to an internet service provider (ISP), and that ISP
@@ -17,7 +17,7 @@ interconnected.
 Internet is a design philosophy and an architecture expressed in a set of protocols. A `protocol` is a well-known set of rules
 and standards used to communicate between machines.
 
-# `2. IP addresses.`
+# `2. Machine Learning.`
 
 Every computer on the Internet has an address that uniquely identifies it. An `IP address` is a number identifying of a
 computer or another device on the Internet. An address on the Internet is just a number: 141.72.251.38. The addressing system
@@ -60,7 +60,7 @@ per address, and provides over `340 undecillion unique addresses` (![equation](h
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip2.png" alt="Binary"/>
 </p>
 
-# `3. Domain Name System.`
+# `3. Deep Learning.`
 
 Most users never see or care about internet addresses. A system called the `Domain Name System`, or DNS, associates names,
 like `www.google.com`, with the corresponding addresses. Your computer uses the DNS to look up domain names and get the
@@ -95,6 +95,5 @@ domains such as .org, .com, .net, and so on.
 </p>
 
 
-The internet is huge, and getting bigger every day. But the Domain Name System and Internet Protocol are designed to scale, no
-matter how much the internet grows. 
+# `4. Computer Vision.`
 
