@@ -1,12 +1,11 @@
 # Chapter 8: Introduction to Artificial Intelligence
 
-In this chapter, we'll explore more deeply how communication between multiple computers can work over the Internet. We will
-learn “Internet Protocol” addressing system, commonly known as IP Addresses. You will understand the following points after
-this chapter.
+In this chapter, we'll explore the concept of Artificial Intelligence.
 
-### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) `1. Protocol`
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. IP addresses`
-### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Domain Name System`
+### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) `1. Artificial Intelligence`
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. Machine Learning`
+### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Deep Learning`
+### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) `4. Computer Vision`
 
 # `1. Protocol.`
 
