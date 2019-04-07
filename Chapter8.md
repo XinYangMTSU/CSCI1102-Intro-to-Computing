@@ -14,7 +14,20 @@ machines, in contrast to the natural intelligence displayed by humans and animal
 computer science. The goal of AI is to create systems that function intelligently and independently. The easiest way to think
 about artificial intelligence is in the context of a human. 
 
-### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) Human can speak and listen to communicate through language this is the field of speech recognition. Much of speech recognition is statistically based. Hence it's called statistically learning.
+#### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) Human can speak and listen to communicate through language this is the field of speech recognition. Much of speech recognition is statistically based. Hence it's called statistically learning.
+
+Human can write and read text in a lanuage. This is the field of Natural Lanuage Processing (NLP). 
+
+Human can see with their eyes and process what they see. This is the field of Computer Vision.
+
+Human recognize the sence around them through their eyes which create images of that world  
+
+Human can understand their environment and move around fluidly. This is the field of robotics.
+
+Human have the ability to see patterns such as grouping of like objects. This is the field of pattern regocnition. Machines are even better at pattern recognition because they can use more data dimensions of data. This is the field of machine learning.
+
+The human brain is a network of neurons and we use theset to learn things if we can replicate the structure and the function of the human brain we might be able to get cognitive capabilities in machines. This is the field of neurol networks. If these neural networks are more complex and deeeper, and we use those to learn complex things that is the field of deep learning.
+
 
 
 
