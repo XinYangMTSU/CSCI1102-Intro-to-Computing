@@ -23,7 +23,7 @@ about artificial intelligence is in the context of a human.
 
 #### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) Human can understand their environment and move around fluidly. In AI, this is the field of `Robotics`.
 
-#### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) Human have the ability to see patterns such as grouping of like objects. This is the field of pattern regocnition. Machines are even better at pattern recognition because they can use more data dimensions of data. In AI, this is the field of `machine learning`.
+### ![#66ccff](https://placehold.it/15/00ffff/000000?text=+) Human have the ability to see patterns such as grouping of like objects. This is the field of pattern regocnition. Machines are even better at pattern recognition because they can use more data dimensions of data. In AI, this is the field of `machine learning`.
 
 The human brain is a network of neurons and we use theset to learn things if we can replicate the structure and the function of the human brain we might be able to get cognitive capabilities in machines. In AI, this is the field of `neural networks`. If these neural networks are more complex and deeeper, and we use those to learn complex things that is the field of `deep learning`.
 
