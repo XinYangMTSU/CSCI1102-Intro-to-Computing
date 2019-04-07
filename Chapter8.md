@@ -38,11 +38,11 @@ There are two ways AI works, one is symbolic based, and another is data based. F
 
 # `2. AI Applications in real-life`
 
-1. Google Translate https://translate.google.com/
+1. Google Translate.
 2. Moley Robotics: the world's first fully-automated and intelligent cooking robot. http://www.moley.com/
 3. Drive.ai: Uses artificial intelligence to make self-driving systems for cars. https://www.drive.ai/
 4. Google Maps: faster route selection. https://www.google.com/maps
-5. IBM Watson healthcare: solve some of the world's most health challenges through AI. https://www.ibm.com/watson/health/
-6. Facebook Auto friend tagging: face detection and recognition
-7. Amazon/Netflix Ads Recommendation: recommands based on your search history
+5. IBM Watson healthcare: solve health challenges through AI. https://www.ibm.com/watson/health/
+6. Facebook Auto friend tagging: face detection and recognition.
+7. Amazon/Netflix Ads Recommendation: recommands based on your search history.
 
