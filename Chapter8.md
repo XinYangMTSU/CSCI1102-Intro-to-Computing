@@ -10,7 +10,13 @@ In this chapter, we'll explore Artificial Intelligence. You will understand the 
 # `1. Artificial Intelligence.`
 
 In computer science, `artificial intelligence (AI)`, sometimes called machine intelligence, is intelligence demonstrated by
-machines, in contrast to the natural intelligence displayed by humans and animals (wikipedia).
+machines, in contrast to the natural intelligence displayed by humans and animals (wikipedia). AI is a broad branch of
+computer science. The goal of AI is to create systems that function intelligently and independently. The easiest way to think
+about artificial intelligence is in the context of a human. 
+
+### ![#ff00ff](https://placehold.it/15/00ff00/000000?text=+) Human can speak and listen to communicate through language this is the field of speech recognition. Much of speech recognition is statistically based. Hence it's called statistically learning.
+
+
 
 # `2. Machine Learning.`
 
