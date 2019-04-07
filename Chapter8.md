@@ -9,13 +9,8 @@ In this chapter, we'll explore Artificial Intelligence. You will understand the 
 
 # `1. Artificial Intelligence.`
 
-The Internet is a network of networks. It links billions of devices together all around the globe. So maybe you're connected
-with a laptop or a phone through wifi, then that wifi connection connects to an internet service provider (ISP), and that ISP
-connects you to billions and billions of devices around the world through hundreds of thousands of networks that are all
-interconnected. 
-
-Internet is a design philosophy and an architecture expressed in a set of protocols. A `protocol` is a well-known set of rules
-and standards used to communicate between machines.
+In computer science, `artificial intelligence (AI)`, sometimes called machine intelligence, is intelligence demonstrated by
+machines, in contrast to the natural intelligence displayed by humans and animals (wikepedia).
 
 # `2. Machine Learning.`
 
