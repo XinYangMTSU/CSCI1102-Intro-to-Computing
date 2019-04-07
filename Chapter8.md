@@ -10,7 +10,7 @@ In this chapter, we'll explore Artificial Intelligence. You will understand the 
 # `1. Artificial Intelligence.`
 
 In computer science, `artificial intelligence (AI)`, sometimes called machine intelligence, is intelligence demonstrated by
-machines, in contrast to the natural intelligence displayed by humans and animals (wikepedia).
+machines, in contrast to the natural intelligence displayed by humans and animals (wikipedia).
 
 # `2. Machine Learning.`
 
