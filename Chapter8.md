@@ -34,7 +34,6 @@ about artificial intelligence is in the context of a human.
 <p align="center">
   <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/AI.png" alt="AI"/>
 </p>
-
 There are two ways AI works, one is symbolic based, and another is data based. For the data based side called machine learning. We need to feed the machine lots of data before it can learn.
 
 # `2. AI Applications`
@@ -44,6 +43,4 @@ There are two ways AI works, one is symbolic based, and another is data based. F
 <p align="center">
    https://robots.ieee.org/learn/types-of-robots/
 </p>
-
-
 
