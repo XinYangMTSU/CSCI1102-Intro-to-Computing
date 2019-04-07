@@ -39,24 +39,11 @@ There are two ways AI works, one is symbolic based, and another is data based. F
 
 # `2. Machine Learning.`
 
-Every computer on the Internet has an address that uniquely identifies it. An `IP address` is a number identifying of a
-computer or another device on the Internet. An address on the Internet is just a number: 141.72.251.38. The addressing system
-for computers on the Internet is similar to a mailing address, and it forms part of one of the most important protocols used
-in internet communication, simply called the `Internet Protocol`, or IP. A computer’s address, then, is called its `IP
-address`. Visiting a website is really just your computer asking another computer for information. Your computer sends a
-message to the other computer’s IP address, and it also sends along its origin address so the other computer knows where to
-send its response. 
+# 'Robotic Examples'
 
 <p align="center">
-   Figure 1: IP address
+   https://robots.ieee.org/learn/types-of-robots/
 </p>
 
-<p align="center">
-  <img src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/ip.png" alt="Binary"/>
-</p>
-
-<p align="center">
-   https://www.expressvpn.com/what-is-my-ip
-</p>
 
 
