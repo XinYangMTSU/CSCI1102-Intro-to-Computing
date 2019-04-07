@@ -19,7 +19,7 @@ about artificial intelligence is in the context of a human.
 
 #### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) Human can write and read text in a lanuage. In AI, this is the field of `Natural Language Processing (NLP)`. 
 
-#### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) Human can see with their eyes and process what they see. In AI, this is the field of `Computer Vision`.
+#### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) Human can see with their eyes and process what they see. In AI, this is the field of `Computer Vision`. Computer vision falls under the symbolic way for computers to process information.
 
 #### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) Human can understand their environment and move around smoothly. In AI, this is the field of `Robotics`.
 
