@@ -39,7 +39,7 @@ There are two ways AI works, one is symbolic based, and another is data based. F
 
 # `2. Machine Learning.`
 
-# 'Robotic Examples'
+# `5. Robotic Examples.`
 
 <p align="center">
    https://robots.ieee.org/learn/types-of-robots/
