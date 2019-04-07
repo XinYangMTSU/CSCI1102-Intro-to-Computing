@@ -6,7 +6,7 @@ In this chapter, we'll explore Artificial Intelligence. You will understand the 
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `2. Speech Recognition`
 ### ![#66ccff](https://placehold.it/15/66ccff/000000?text=+) `3. Natural Language Processing`
 ### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) `4. Computer Vision`
-### ![#66ccff](https://placehold.it/15/ff4400/000000?text=+) `5. Robotics`
+### ![#66ccff](https://placehold.it/15/00ffff/000000?text=+) `5. Robotics`
 
 # `1. Artificial Intelligence.`
 
