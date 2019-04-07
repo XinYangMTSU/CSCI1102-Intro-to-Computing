@@ -36,9 +36,15 @@ about artificial intelligence is in the context of a human.
 </p>
 There are two ways AI works, one is symbolic based, and another is data based. For the data based side called machine learning. We need to feed the machine lots of data before it can learn.
 
-# `2. AI Applications`
+# `2. AI Applications in real-life`
 
-## `Robotic Examples.`
+1. Google Translate
+2. Cooking robot: Moley Robotics has created the world's first fully-automated and intelligent cooking robot.
+3. Self-drive cars
+4. Google Maps: faster route selection
+5. Auto friend tagging: face detection and recognition
+6. Ads Recommendation: recommands based on your search history
+
 
 <p align="center">
    https://robots.ieee.org/learn/types-of-robots/
