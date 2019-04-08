@@ -15,8 +15,8 @@ machines, in contrast to the natural intelligence displayed by humans and animal
 
 `Alan Turing` is considered “the father of computer science and AI.” from his early work where he illustrated the concept of
 AI and programmable digital computers before either existed. The concept of Artificial intelligence is proposed in his famous
-paper in 1950 (COMPUTING MACHINERY AND INTELLIGENCE) https://www.csee.umbc.edu/courses/471/papers/turing.pdf
-He was the first one to assert that computers could think like humans.
+paper in 1950 (COMPUTING MACHINERY AND INTELLIGENCE). He was the first one to assert that computers could think like humans.
+https://www.csee.umbc.edu/courses/471/papers/turing.pdf 
 
 ## `The Turing Test – Alan Turing’s Imitation Game`
 Toward the end of his life, Turing developed the Turing Test (AKA the imitation game). It was a general test of a machine’s
