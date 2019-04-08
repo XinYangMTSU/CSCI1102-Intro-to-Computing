@@ -18,11 +18,12 @@ AI and programmable digital computers before either existed. The concept of Arti
 paper in 1950 (COMPUTING MACHINERY AND INTELLIGENCE). He was the first one to assert that computers could think like humans.
 https://www.csee.umbc.edu/courses/471/papers/turing.pdf 
 
-## `The Turing Test – Alan Turing’s Imitation Game`
+### `The Turing Test – Alan Turing’s Imitation Game`
 Toward the end of his life, Turing developed the Turing Test (AKA the imitation game). It was a general test of a machine’s
 ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. This test was a precursor
 to our current cognitive computing and AI. 
 
+<hr>
 AI is a broad branch of computer science. The goal of AI is to create systems that function intelligently and independently.
 The easiest way to think about artificial intelligence is in the context of a human. 
 
