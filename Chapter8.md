@@ -13,9 +13,9 @@ In this chapter, we'll explore Artificial Intelligence. You will understand the 
 In computer science, `artificial intelligence (AI)`, sometimes called machine intelligence, is intelligence demonstrated by
 machines, in contrast to the natural intelligence displayed by humans and animals (wikipedia). 
 
-Alan Turing is considered “the father of computer science and AI.” from his early work where he illustrated the concept of AI
-and programmable digital computers before either existed. The concept of Artificial intelligence is proposed in his famous
-paper(COMPUTING MACHINERY AND INTELLIGENCE: https://www.csee.umbc.edu/courses/471/papers/turing.pdf).
+`Alan Turing` is considered “the father of computer science and AI.” from his early work where he illustrated the concept of
+AI and programmable digital computers before either existed. The concept of Artificial intelligence is proposed in his famous
+paper in 1950 (COMPUTING MACHINERY AND INTELLIGENCE) https://www.csee.umbc.edu/courses/471/papers/turing.pdf
 
 AI is a broad branch of computer science. The goal of AI is to create systems that function intelligently and independently.
 The easiest way to think about artificial intelligence is in the context of a human. 
